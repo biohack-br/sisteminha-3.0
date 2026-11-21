@@ -1,0 +1,67 @@
+============================================================================
+||                                                                        ||
+||               B I O H A C K   S Y S   v 2 . 0                          ||
+||          "A PREPARACAO E A UNICA DEFESA"                               ||
+||                                                                        ||
+============================================================================
+
+ +------------------------------------------------------------------------+
+ |  RELATORIO GERADO EM : 03/11/2026 02:31:32                             |
+ |  NIVEL DE ALERTA     : [  ] BAIXO                                      |
+ |  PROGRESSO           : 0 / 18 ameacas marcadas (0%)                    |
+ |  BARRA               : [..............................]                |
+ +------------------------------------------------------------------------+
+
+ .------------------------------------------------------------------------.
+ |                C H E C K L I S T   D E   A M E A C A S                 |
+ '------------------------------------------------------------------------'
+
+=== CLIMA ==================================================================
+
+  [ ] Seca e escassez elevam risco de perdas agrícolas e desabastecimento no mercado interno
+  [ ] El Niño pressiona safra 2026/27 e pode reduzir oferta e elevar preços de alimentos
+  [ ] Geadas não afetaram milho, mas clima extremo segue pressionando outras lavouras
+
+=== LOGÍSTICA ==============================================================
+
+  [ ] Falta de motoristas no transporte rodoviário pode atrasar cargas e limitar abastecimento
+  [ ] Greve de caminhoneiros pode paralisar rotas e elevar fretes a curto prazo
+  [ ] Restrição de diesel em RS pode dificultar operações no campo e distribuição de insumos
+
+=== INSUMOS ================================================================
+
+  [ ] Risco de escassez de fertilizantes pode reduzir produtividade e afetar volume colhido
+  [ ] Preço e disponibilidade de fertilizantes pressionados por crise global de enxofre
+  [ ] Alta do petróleo eleva custo de combustíveis, impactando logística agrícola e custos
+
+=== GEOPOLÍTICA ============================================================
+
+  [ ] Guerra no Irã e escalada militar elevam preços globais e risco de fome ampliada
+  [ ] Guerras pressionam mercados de alimentos, com possibilidade de menor disponibilidade
+  [ ] Sanções e tensões comerciais podem interromper fluxos e elevar custos de importação
+
+=== ABASTECIMENTO ==========================================================
+
+  [ ] Queda em feijão e ovos indica fragilidade pontual e risco de oferta menor
+  [ ] Queda em arroz e trigo pode reduzir estoques e aumentar volatilidade de preços
+  [ ] Disparada do etanol e combustíveis pode deslocar oferta entre usos e pressionar preços
+
+=== INFRAESTRUTURA =========================================================
+
+  [ ] Neblina e fechamento de portos podem travar importações e cargas de alto valor
+  [ ] Racionamento de água em áreas afetadas por seca reduz capacidade produtiva local
+  [ ] Risco de cheias e medidas em portos/comportas podem interromper movimentação portuária
+
+  .------------------------------------------------------------------------.
+ |              >>  A C O E S   R E C O M E N D A D A S  <<              |
+ '------------------------------------------------------------------------'
+
+   [1] Estoques minimos: agua (14 dias), alimentos nao pereciveis (30 dias)
+   [2] Combustivel e itens de primeira necessidade em reserva
+   [3] Copia fisica deste relatorio no kit de emergencia
+   [4] Monitoramento semanal de cotacoes e noticias de logistica/clima
+   [5] Rede de contato de apoio definida e compartilhada
+
+============================================================================
+         [ BIOHACK SYS :: STAY PREPARED :: 03/11/2026 :: 02:31:32 ]
+============================================================================
