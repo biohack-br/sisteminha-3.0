@@ -2,4 +2,4 @@
 
 Aspira que se vira pra entender ....
 
-
+a pasta Linux roda no Termux ok ????
