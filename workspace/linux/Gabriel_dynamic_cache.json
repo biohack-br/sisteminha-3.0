@@ -1,0 +1,497 @@
+{
+  "ebola": {
+    "timestamp": "2026-10-29T21:46:25.037257",
+    "items": [
+      [
+        "Ebola atinge 3 regiões africanas e pode chegar ao Reino Unido",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMXhBdTNwY0lzR2RfZWIzOGdROXZITkthZXJRYUI3QkpxNndKYXh0NTVaMG5XcUljSnh4al9uTlJVWHQyb0NfQUkxY0lDTi1hYWswUmFTZnB2amdNME9ROWZXd0g3dWlFMGNrN2x6QlE1QTVRTUVmNkZwUkpkY0M0aXljWmRfc0g0TW1nd2p6RTJ0Umdpb1pHNXlJWVpWRW9CaFVfSU9KNUhMRUlWaW41SGxmOS1fZmlySUh5dHhSNV9jajd6UnNQeWJTMEV5MlI4ZFE?oc=5"
+      ],
+      [
+        "Nigéria rastreia contatos após caso de ebola ficar 17 dias sem isolamento",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNblI1QTd1YnRSRVd3TGQxR3JoOGhzSzllVDNORE9yMGJZUEpPV0dvTTBwNGlrU3ZqVVZvc0gtREdKTjlnaE90OTdUWmJKb3dJWXkzNkVhaEdOMHRHa2xwQ014M2xhRE1PUTZyQUJhSDlsLVdWeXdQUHlYeVhlWWE2eVRoU3BPZzQ3UTgwejRiRE8zdkNxUk13YWxxVkVNY3RiRHhWS3RvdG5vZGd1ZmU0YUI1WmcwbG5KakpsQThSMUVlTFM3RXNORUdYbmdjRm8?oc=5"
+      ],
+      [
+        "EUA exigirão declaração sobre ebola de todos os passageiros com destino ao país",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQnhLUU1pVUNCbll5Tk9pRFVIbHpuZV9yRU5oRVd3aVRMZVpIV0RiWktScWNYRVczMkFaT0F6OG1OekdoaXBLVmtsQlJGVlI5ZGVPR3RuY3RHMDdENnJtMWZTZnMyLXBoX0ljUy1NcUh2NDdPQkFlNUdWbUg4b1JiQWJsWjNNRnFvWG5oa183N05mYkt5NU9aanJ3UEtBMm9CTEUtdU1yRHZjU0dQWDFhNE5YTDdkdGMtVjNDMEZWNGtyd2ZyTUhnQ0ZEdmxfcE40TnFjLWliODBKYkJs?oc=5"
+      ],
+      [
+        "Enfermeiro é atacado e morto durante atendimento a caso de ebola no Congo",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0hnT1p3dE1jYmRGSnh0akdjQ0g2NnppVTB4RTJSQno3VWZaSmlCdDBXN3ZYLVE5UHA5ZnJUQm9LaWlmVXFpSGFkVzFNajI1OXdfS0QwUms3ZDRkY1h4aktHRDRLMFppSmZneld2RUcxTlRGNHNDVENoQlYyMXlOY1l1QUJxVmI3SFpKYTdpalk2MnFUQm9IMlJ2cW5BYkROM0p2UVktZk8tcmo3dWViVdIBtAFBVV95cUxNSGhiU2JQVDFJSHphbXB6US1EZWdUQnFuSnRGMFJMVFN4SlA5N2JqaVEzTzdIY3JiaV9zbk1YaGxBNFp2MkxwQkZncURCc2hjS0lueHpnYTkydjZwT0p5UjVmODJTR09PWmZtMWhfRFR3MUR4NFFKeHlrRkZ3VFBZMGxzQ2d1RW1FZkdTWHQ1MmNUNmIzS0tzWEp6bnByUzNuX24tc0R1TkhTbUV2OW5UUVR2VU4?oc=5"
+      ],
+      [
+        "Os desafios do novo mandato de Lula para a saúde dos idosos",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmNSSDdIU0VBalF1dzU0N2d3N04xY0ZxNHIzNWl3dlFvclRmcVpOckxDM1pSZUgwMC05ZFI4ZlRBN01yOHZBSlYzOTFpa2Q5azVIalZwYjFMdG1zNmRmLUEwQ3dmTUpDVW9VMWlQOXpyODZ3RVVXQTVjbzdNX3hPc0g3c1lQNXI2NGV6LWZLV0lCQV83anluV09lb2p1Zlk?oc=5"
+      ],
+      [
+        "Nova declaração passa a ser exigida para os Estados Unidos",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeDhaQTdhOUFjTzU5Ym5wM3NDM0M1M0puUkVhUFdXbGxpcTFWbUhmVnc4X0dDa0xHM19fWGlRM1VMd3Q0cXRvbmpFeFZCR3NzOFhqZWVPU1ktX0RCREE1RE1yZ1hfSTVqQl9Tb214TWRianhCMllCY1JxX0VvREk4djVETGJLdWJuWGhqRUZTT3c4VW9JMy13TTRCWHpiXzFvN292aVBDZkZIYzJhaGpTbmRqSF8yWGJMVXNCV2JR0gHDAUFVX3lxTE9Hc204SFdQay0tYTNfQW1rUlZsMGRHdS13X19oRTRLNE9YcjVJeXZ5UFF0aS05clVxWnRBUTF4RjJ1UC1sY1dWYXZuVG1wMXN4VWhWaDU4SHJVZ1FQSF9iU0NEcGJvNVhaWG9tcGVtNkc5aUZuN1J1VEZIZTdLdG9lakNpMVlNWnJ3V1h4aHRqa3JFczM1M0FXdXhFWEFtUV9HRTh2NVc2U1lUN2o3aENGMDR2VEU0TG9QbkEyNE13NUhaRQ?oc=5"
+      ],
+      [
+        "Número de casos de Ebola no Congo ultrapassam 10 mil, diz governo",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYjFUTTVOMzNVQUpQOXhfRkVsdXZNNUtJMG0wMVMzcEt2MlBiOXk0Wjd4U1QyRWNkOWdUQkxHUVQ2bUVnZlhoc3J4a0REUXBBLUVDZ2hNSUpUcnNKS0VRM0RhSUx5RlduTEdPdUczQmdkU2U3bEVVTFpJVXhNLXZzeXdybGZzZUZZUl9PX0xlRVVNV19tWVlWcFQtb1RLd082WW5Qc190cVhkRHpa?oc=5"
+      ],
+      [
+        "EUA exigirão declaração de passageiros sobre possível exposição ao ebola a partir de novembro",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWUpyM0hDUUhXaklDa2MyTUxYY01lUjJEM0o4VkJGTENHWXpHeHhuRkhHeVROWmx6TDRjZUNKZEc2aVEtY0dKUllrR1htd3JPWDdXaVZEVmhHRmE5TkJDbXNtRXR3SXdHRF9qdDh5a09RSExqOGJfbzhmRVZjaGY2RTQ2Z1l3cVlDaERUaHh4RGNJVFlBOUxaVXFmcjI0bXBUOE54dkRtbDJYazByVF92a2ttNjlKYU5jcVlGVjQ2VEU4N1RzWXpvQm13?oc=5"
+      ],
+      [
+        "Ebola: enfermeiro é morto no Congo e profissionais de saúde se refugiam sob proteção policial",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcVBMNTRsTzlMRk1oWlVSbVl0X3R6Q19NVXREN0N1QlZFUEMwMlBXdXlOR3BwVHFuZjZiRlZ0TXFiLUpYMEJvYTdvakFhQkJCdUVtSmdCZHIzU1lOYUtLbFh3VkFJVUN2RTV4c1JONGZ3MktXSTQ0ZU1fNnpkNURCRDZ0NUc2Nk9rN3B6YXBYY0J1YkRoS0g1Uk9GTTZURVdOb1VBdjhCQlE2OG9NZE9HUU1ZQThuWVdvc0RFYVktY3LSAc8BQVVfeXFMT2VlLURBZXNuNlhQbkEydzVfTy05dXowUDRKTDY2cW45S3puT0ZveWdyUUgycWpSaUNyTXhPNG1pblBIa1JrVGpNYldXT0s0VXMyU3JVN25OUnV1RDVLX0VxbE82NmpJekZUUE5ldmp1SWUwT2N3NGZ2X0FTMmhEZWRadzhYRUZ0ZUJFNlFUR0xHeVlEd0h1TjVBUmJoQlVKUF9yZlZPRGJPNE9Ba3RpbGF3QWRzWlkwV0dOOHozNGtra3pVLURMMkRLUXVyZUpv?oc=5"
+      ],
+      [
+        "Enfermeiro é morto em ataque durante atendimento contra o ebola na RD Congo",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdXMyc2JHd1pHdXNuaFNKdy1lU0tMSkFpVkN3OTNiQ19abjZVWmNXZEZHSWlUMVlYMFVLWkhFTS1oVmZySFg3S3hhZ3hPUFB4TTJ6alp5clNLVDFLMHFQQ1hvWHd0ek5HeU1OMXc4QUg4bXBzY1hzUTVFNG03LWp0bEY5V183NDNfSDlxcGNCdlhPT083SHoydnJWZllMT1ZNR0xvbHNBUXQwVVVNN216T0FrOG1fVHJ3bVZfWWpYemhCbU9taFNzcA?oc=5"
+      ]
+    ]
+  },
+  "pandemia": {
+    "timestamp": "2026-10-29T21:46:26.011339",
+    "items": [
+      [
+        "Bolsa tem 3ª maior queda diária desde o início da pandemia",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3Z6MVNxdWlNVjhkckFzUXA5MUpqcUozQVVQRDExR3FFUGRBVnY0YVloNFlfb0UxTWNuZWptOGRtOGwxZFIwaUd4XzRMbk5wZHZwaUlqRkhCdWdfMTV3QlVDNzQ0YmxTZW4yZjBlU3hTNEdrSTRDZ2l3R3lyVnZTdE4wYldGVmhKRXhRT0RkczlXSE1VblVQT1htemplZWtvekVQeQ?oc=5"
+      ],
+      [
+        "Opinião",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFBMWHdEOVBxUXJDUVV4d2Joa1BrS1VBSUtrbmJ3d2tEU3B4NGFFUHNHUkhjUlNOb1FrOEJRVXY2Q0lCNWVILWVlb0NGdTlaM2lPVXhSeWhoZU8zUkJDTzJ0Um1TaTVETnRiVjRTSlp6LWNheEQ4ZTh4aGhnVjRQT2I3bDVSMWpENlZGZVJKOU4?oc=5"
+      ],
+      [
+        "Pandemia, Joesley Day, eleição: relembre os maiores sustos do Tesouro Direto",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1k4UElIQVZQLWdFYjd3UFVuQ1ZoLUQ5YWVIRWRrTmVmOF9ONXphbTQ2dzU1LWtKNkRmN19Ua21yRE5WM3NHb2tNNllVekJvYVM2RDRvMnZIajcyWkwzVzlDVU82bm5NZ3QxMG9VXzJIRFVBRURidm9iM1lsZUtrZmZBYlNWVlFXbXZVSm1wSS1lVEXSAZgBQVVfeXFMT0h4U0pndS1nYWVCVUhtXzVBbDNzZmg3NlJTYk40RGZyOWdvdFB4YlBJVk5xT0FlRFlPVnJFVk81eXVLSmcwSVlYMVQxRlFnN21LWWdlVF9scVBKcjJtQ2NRMnVpbk5KZUZvM0tvVjdVUFRZZ2FRSEh1TmZHV1piZlJGb3h4enIxV0pBMkpuaXRBRUhwRlpSdWg?oc=5"
+      ],
+      [
+        "Presidente anuncia descongelamento do tempo de serviço adquirido na pandemia e outros benefícios aos servidores da Casa",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQ3BObWFVVENGUEZtTzNyWEY4YWtrSVhYUGdDOFJJaUN3cjV6SmJSTmZWZGhlY0V1Yk83bkpvNnlaNE5HNzlhbGItQkNmUlBQRHhyNThmSXFhV1ZQQWF6dmtGT3R0bE1rUnFyXzJpb3VXcUFlT0l1Z20xWXFzRk13eF9IZFc4VVhreU4xQ3NtTnZSZmI1NzBYYTYzU0d1TVlVVDQzYktUU19DNkJ3cmhGV0JJajU4TlVfMnZrMF9XeTAzY0FjaFlLRnlGQUNwM0JJQWJ3X05vOUx6OUxETVRiVzJpTjBIWTU2akdlU29sRmF0ek1mc3c?oc=5"
+      ],
+      [
+        "Árvores desenvolveram madeira mais densa com redução da poluição na pandemia",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTXR1ZWVQaG5OMUk3Vm9UYjhSWU9TLWxvWjJjdS1rNjhQOE5UVWNUNDFFRExuR3Noa1BSeFVwWmIwbUpzVDYxMWs0QVY5LVh3d3ExblZkTGNMS1ZLc0RQYnBvQnVtRWttbjVNa2R5VUJXRDZ3RXk2ZEN2eXI3QmlYSkN1ZDY1YzNkdHJadk13bUh1NDh2Mk1vckpYQmxzOVdoNXc?oc=5"
+      ],
+      [
+        "NOTA INFORMATIVA: TRANSPARÊNCIA DOS CÁLCULOS INDIVIDUAIS DO PASSIVO DO ATS DA PANDEMIA",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdF8tWDlxN3ZTWmllbGVwWjUxS2hxVTNVcDRHSFF0Ny1USms2T0wwU05SQ3d3bWNSY2hpdGlrWlBVVmRkeF9tS2I4bDRSclZVMnR2MUpDWm1Jc3FBTDRTTDBHbFNOWGhtZ0I2aFA5c09pellIbi1IUG50LUNzSTBPa09PbkVBRG5CUnVQUVlZLTZWdDlCaEtYYWZoNUxQYzlkcExWMTZ2RQ?oc=5"
+      ],
+      [
+        "Camila Kfouri, que morreu aos 48 anos, atendeu pacientes gratuitamente na pandemia e criou lista de músicas para o isolamento; saiba quem foi",
+        "https://news.google.com/rss/articles/CBMiogJBVV95cUxNdzRnZXVtX2c0QzdKdnNSNTA5WHFJa1F5QXkwMDZKU0N2UFdLTWpvbm5CdUszeURScUJsZVZtZDhMeEQwWWd3SE5wSXNHSHJMNjZNdVM0V3YwTUtFS29Bb2c5RzhUMzJWRTM0bXVLeU1BdWxCYWRWazU1d2Q4YUFTS2JLLTEtXy1IVFRUQXpyRTBvdTBIUWY4ZW9SQ3VQOC1ER1hOSVpaaVZEZUYtc1g3OVQzMS00VEdLTU5LVXVjTmVKLWUwVW40bGxjUkVZWlp0T09DelhxMVVMY0hDYTdiUzlpWDY1UmFVUHpCOTBxV1ppaDRPNGpiVHJ3QUwxVGluanF3SXhqZzluUE5aOWRyWWhNQWdfdjExVVZsbFVmZzFLd9IBsAJBVV95cUxQNmtIS2djVWtReWZTSGRIUVJpM2NRWTM1UVZYUVRmT19mTVI1OVdsY2VVUXRMWWhGWUV0Rkdyc1lHXzFSZ21nbmVTRzV0WTNIaEtuOUdta1A4YnJEMlE2Nnl5QktXekc2X0duTm92b0k3X3Bjb1B0Z01aMVpGMDJLREd4SHhmVE5kcTFLdV9GWWtRT1djdUwwUzNXTTd2NWpUbVBQamlLeVY2X0RwUUszdjcyV0tzYmllc240b1EtNVRTQ2dlVTZpUWtjR0szZ283ZW9Db0Z1WnEtSHhkckdVSll1Z0VVZ0czRUVYTXBCN0t2U3k5cVNvT3YweEp6R1JsQ1hJY1p6ZTZBSGE0SUh5X2NDeUZ1VF81WHBFVDJHM05fZlNkdl9iVDBIRm9vdHBv?oc=5"
+      ],
+      [
+        "B3 aciona circuit break pela 1ª vez desde pandemia e suspende negociações à vista por 30 minutos",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHhHdWctQXdlWTBUQmxBaFc2TUVLQ1VPVTRKcjBwVlI3ZzdVbDg5Wm9YWjZXT3lmSmxJRGRqTXJrN1RLbkFObkVHX2thdVk3WmpNcl9ReE9VcUVsUl9zd2tJR201aVNmTmo0QUM0NldEVmwtUk5ta2ZqVHpnS1Y2MGpDZ09MSXViRWxOR0ZDTHhNb3BXUmdBWjFLSERORVUwSGZXbkVVVFBUTlBhYjNEOFJhcjM3M0Y2Yk9LUGNhRnlZZ0ROXzVOcXhWNXFIOXZvbExjVXd2Yw?oc=5"
+      ],
+      [
+        "Ibovespa tem maior queda desde a pandemia de covid-19",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbE91LVZCQmR0em9JN2w5bE5KdUdnNmdjTDNXdWZVSkF1MmNIa2lyUEtxeURUTDlFR2FDSTA2X0g4OHp2OTluRkdTemU5VFRPdXhDdzFhaVhWMjRNbDhhMlFidUdJWlR0M0l3X3RxNmUzZ2pVX1hGdUZXbmthWWJmXzVHdXJIUTV0ZTNEaURLMWZwUQ?oc=5"
+      ],
+      [
+        "Um terço dos trabalhadores da indústria teve sintomas de estresse, ansiedade ou depressão pós-pandemia",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTGQ0S3JwQUFrOFlQejdJdTNkdk5OYmVNTDAtUXRkUlh6aHlFT2VFcC0xSWxPc1JTYXZpZFQtaUN1cU9mWldwMzJXM2ktZXptbC1YSUltZnBnRFc4T05rVmdkd21WTlRGUktEVWpOdU5kVTlLTk9rY0d5a2FDeDRrS2RaZE91QVVYV0NybHZ3NkcwWGVzdXpxRk1qdFZVdEhTTDlySWhaN2w4Y19iYlNPczhlSVM0SVk0MEVfT0ZDX0hYZk8zTUhTNXhuLTdNUQ?oc=5"
+      ]
+    ]
+  },
+  "guerra": {
+    "timestamp": "2026-10-29T21:46:26.857581",
+    "items": [
+      [
+        "Colômbia registra 256 mortos e 973 desaparecidos na guerra entre Rússia e Ucrânia",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEhmWEpyWl9tQmUwMzNqRlJBc3VvT0pDcURob0VlUjYxQ0prZGkwM3ZJZVB2cS0wV1I4cHowZ2lTUEFuRzNod0NxX2w4ZXAwZVFYYlFuQ1VFd1JGaElDNjhNQkRnVWw5Wk1wbzlRY2JZTm5heHc3ZjRNLUxjUnVIMGlrbWR3d09FRUJTdlRCZE1VZzJTeC14VW8yRXBaejJieTVTYU4tMzhrem9EWldZZkNvSWNPMFhFQ2szSUUySXhiS0RjQ09XeGs0Mm04Z9IB3AFBVV95cUxQd01TenlRZlhVN0I0NWpLOENyUDRuVzdJbzc1OEoxcHVVT0poMjRhbXpDNmMwOGc2NDZpdEtJeThDX3Z5U3poWTRyekZENGtXTlQ0SHRpWXFoWGMyMEs4bVZvLW0zSUM1WFBWemhDWGx3Q1dKYVlad2hDaDcyM1U0RHNIeW80SHh4M0tLbms3Y1JydVV3WTJtVk1oVWZfOVJ6V0FXdXZ4ejY5S0RLT2FmVThYdEpoMWloNDVQYXI5bG5TX2Z2amNXd2hPOHlsbER5cUIzRUhycUFRU1VH?oc=5"
+      ],
+      [
+        "Colômbia reporta mais de 250 cidadãos mortos e quase mil desaparecidos na guerra na Ucrânia",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNUZacWtvcE1NcEFDaklqYjdSanhxOUtYd3Z5a2Q2MjY3Z3Rod1BFTC0zVDNOVDI3RTRLWmdaRGZxTDh1a1BFNW5zcGVDZHRhLTM2TlBHczMxUTRmUUlrS2hCZ29BM1ZFS2pQYWU4anRILVJoekNia2t5aUp4cDVXQUhGWGJhUkplVHIxaDUzNjFCQjk3UVMwOE5wSDJXbHdKUXF2ZXRhTGRrWFozb0tFVndGYndHaVJxcmpKem1QdmJjOUtiRjFvNDlSQzBacHhCQzMxWXNfSjFOdG55cHc5cNIB7wFBVV95cUxPRjNxXzRJQXpFRnR2ZHJQOFR1ejV0TFlOSU5BSHNfOXV2WmNYMjZwY19GR1FQSVczMGJhb3RENHBERjRHZngtOS1BaTdGMVVXNDFab1JrZnc3NHRnTXRKVk5FRmNkdHBUZG4xQzJMZ1VjYnVJa1JTZGs0NmczZzF2T0xhVUpPVlNIeTNrVV94MFBpaHJpRmtxWjdSRjgtQVRtNnFObFJIS3JOeGtJc0kwR3dYUHlIVUVLb3FfMENOV2dRcWhtVzloZHhfdTFtMmRod0RldC1Yck1McDdaa3JobF9xRUlnZ3VXZGhPNWgwSQ?oc=5"
+      ],
+      [
+        "Guerra na Ucrânia deixa 256 colombianos mortos e 973 desaparecidos",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TTW5hdDB6TFUzMmZsMDZTT3lJY0RuSG5XOFhFR25lUnJZekxONTkyYUNwMXR2aGJ3V3AxYzNndXYyZEptTUJONlRyU1pyS1FENTVrckp1elh5VmI0OFhDaWFtaUJRU21jOEZQQ3M5S3NuRnNJRjFv?oc=5"
+      ],
+      [
+        "Irã mantém contato com mediadores sobre plano para encerrar guerra e reabrir Estreito de Ormuz",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcWQ1ZTNLRHRrNVFMaHJSSFliVkpidnZndEZ6WFN1RFRpTUpMTmw4eWhVTzk3XzlmWkp1MHdWZnNFMURNbE5JRnFoR3lYdml3XzBkVXctMFJhVEFrMUFpRzBlMWk1SDViWHpfTFYzdDZsQTZtSWt5UC1XZmRZdDBoRHJTNWZzR2YyY1puOWpuU01iWTVqSVphRmhIcW15VmZYNFBYRHFBRk5PTC1vRkJPZmN3TDk4Ull4OC12aDZ3VHhXUQ?oc=5"
+      ],
+      [
+        "Irã vê apenas ‘ideias inaceitáveis’ na mais recente mediação para encerrar guerra | Mundo",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZEo0ZWRMOWgwTHVrcU5iMnRWWk9kekNHbnBnSS0yU1gtRE5XX2VuelI1REFPUWxnckZ4bThCYnRDbl9KN0V2eVloalU1VmhpSnZoWVZTanh6TGRsM2t0Z3BZajVQZGcxbmI3RDJYa2Rxc2x4QmhseEtMNDhHbm9JVFlta0RzaEdvbEc3bDNFZTBNZGF5NEJ2WlhOeDYwX3A1b2JCRWZyODJxZjdOVmNKMzdtbUdlS2FBRnk5QXYyaDRybDNkOGg2cw?oc=5"
+      ],
+      [
+        "Irã diz que discute com mediadores plano para encerrar guerra e reabrir Estreito de Ormuz",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRk9rZzBZODBWbmFURHhPYXRQTDBIVUlxOHNWVExpUnNGNFhQOTUxdi1CWmExSkx1RXplQlRWNFlUcUw5Qy1FWGtfbjdzdG1JWk1ZTkprWHJ6TXhhRVdrMVBQY2g0b3pCakV2a1BjT3ItYlRPMEp0TzIxNEgwSVhsWXcwQ2dDSHpMMUxtdUoxM1Vka1lKbFBEQWJGU3k0ZklYX0dtdHljUDZmcTVQYkNVSlVGQmRHRzJpRzM3VnF6bVQ1N0tWWmdz?oc=5"
+      ],
+      [
+        "Putin diz que Rússia está preparada para guerra com a Europa",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcm5aUlgtZUFVelFBcGRYNHNXRGRLSDFpQUFac3M4TDZHNmZFS2FGdG5mZ21zd1lIYTZrdktLQjRLZkNmcDc2QXVwRWc0Qk85SzVoenZEWFBxamRGS2p1RUR2Q3BrOWQzN1RfZHQtQWZjTm0teVN1eURpaGlNWXlmM3NnbU9RY3phZktjU3J6ekhYcldKdlo4bW1OcGRmOU1Qc3k0?oc=5"
+      ],
+      [
+        "Finlândia e Noruega rompem com isolamento de Putin e pedem fim da guerra da Ucrânia",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0VnbUZKbnBuR1NVTTZoOTBYcjZ0Y3dUeWNpaUNVeFFBU1pVX3g4ZWlIRkFUN1FEZzV0SWR1TDhOZk40SVNMbkszRDhTUnJ0aEh4TWNDYWFyRENsbWNld21kcXRGZmx1c1UwUXJMbkU2ZnR3cnNlNHhsSmlMdE1rdHoxWXUxR1RNRnRRRC1UeVVOc1htMUtONWNPRFN3QWxTbXNYZ0xQc0tWb0JUSHlpUXkwcEhQZ01IOVFsRTVJMm52WFpfNEVGS0F4bVNVLU1lSHfSAeABQVVfeXFMTkk0eS0wRXRiQ1BKQnFUWFo2a2JSZjkzU3JvOW5rSl9VVWxsbUtYZEVSeGRJaTVwSWF4eTQyTkNQdTVuR19EN0xvcS05OXV4N2NQZnhzYXg0WTk4U0Vqc3hGNDI3dzhqUkRBQk9JSG5XWGJuNzZqNHppaU1hU2Z5T3RlWjYwVk1UeWxRLWdhNnNMbmk2Sk14by1LUHp5enJNZGVhWkIyYzFJdGZUcFVvSlptdU9vX3RhZEtHZ2RGcVM1NGNZU1M1bjcwQzc0eE5rSnVINGtpbGxKYTZrX0gzaVA?oc=5"
+      ],
+      [
+        "Otan deve estar pronta para uma guerra com a Rússia, diz Reino Unido",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVEY0UUJZdGlENF9raG9mMERQZVFZdkFNS1YxdUxNQnIyV0dKLTVfZnluUzVxcFFRMFNxYXZTSW80RGVQcVo0RFVrY2d1U283OHF5dkxCMWdpWkRoQ21BWkplU0RScjF0REI3N2xkRHZzR3F1cDVVZ0VUcnlaWTNRZUFVS3ZGR0trOTg1MjUyZXAxRUlxbU1UOS1EZjFQanN4LTNYb0JaQU5kTHliOWdINw?oc=5"
+      ],
+      [
+        "Guerra e frete reduzem participação de Paranaguá em fertilizantes",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbzM2ZkxLT3BXU1VtWkRwdnhGT3phZXNtX3FaYktPbnRJekdQTGpaQWtwZWp6MzlEbklvV1dFRzc4UlRQN2Y3eE44a3hndjN0c0tVMUNjdnRJYUNrMmdFaHZYaTV4LXkwT3FwTGlnOGxHbk0wWEphYTlKdHlOLW1qTnhxbl9Wc3l6bzMxVFg5WE80Y0ZoWmJkY0p5Z3FjQldPWjNVd0lpLUtULW9KTHZIMkhVdzFTWjI4RENab1lLM1I?oc=5"
+      ]
+    ]
+  },
+  "crise alimentar": {
+    "timestamp": "2026-10-29T21:46:27.638129",
+    "items": [
+      [
+        "Ministros do STF e TSE veem 'vexame' em carta de Flávio e defendem não alimentar crise artificial",
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNZlJZTWZSWVhVMWRMLXIxeEJwaGVidHl4TzNMTVBJLVZKX1pUQTBTOHI1WTRBdW5jUkpkb2pjVmxWU1VFdXllbGVlWGJjRTN5OXlERGYwQnJHdy1DWVhITy1rbUtPWFoxYVNYSmJBMW1IV0hFemZzdzU3U0p6eEhUS1pYazJ2d0Q1Z3l2cmtqRFFEeGV6MnlsSk5KcmlYemZXNW93c2RjOGowQllDUFowQjZJWWhuN3NXUXNkQlJmUzFNYm1NbVlUclQ1cWYyMWttYlJYQTA4Sk5ibjdPMjZUTHNCVGxuckF6WFHSAfgBQVVfeXFMUGo5YU5QYXR6VTNwSnVkTFF3RG5jWXNjQlR1U1hJSWM4WlZsLW4wSGtVYk4yOExnM3VaZEdUYi1aMm9jNXJ2XzFLYklPaWZOeVZSYS1ZU1F4RXYzQWwxeTRqRzBtekN6VEVwWXpCckMzaUc1WW9oazl5N0lEc3FXSnNpc1NIVzdiMW9uTmFCU1VlWkFSQ3VMMWNoN3R2RzJ3cjZzLXVDS1BMd05waDZObHNVVnZaQVJVbjB1TWpfMnVNNWNxR0FNT2JvMHVrQjI5WHNjS3U3bDdRMEcwNkVOc3pDb3hSVUgzdXVUOHZwRkdmdXlsVHVhcVM?oc=5"
+      ],
+      [
+        "ONU: inovação para enfrentar crise alimentar é tema de ação no Brasil",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQWZTV1F6THVuZmIwVE50ZWJ5MWZUa0JVSGdqZWFkd3BuV2JuM2FTU2puQnlqQVdIS1VEV0dMLVRyU3h1cER6b29EcjIxSVRRRWdNd3FBSG5kSU9iWndMMDhIa01PSDZIVmFNMmNFQzFuekRSdDQwZVd0QTQxUmJlSEZzZlJRdUtPOU94TzhjR2pBMzBMTk54RkxkZlowRTluejBsZU9JOFNrUXBxeHo2RXlHZjI3NlBBZHExdDJpeC1UMEVEOF9wSV93?oc=5"
+      ],
+      [
+        "Afeganistão: 20 milhões de pessoas sem segurança alimentar",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3pfb3hRV3FSblJiMV8yMnBQSlBneWYybkJwb2ptY3NPMmYtRm1MdElHeWxtc1JEeFM4UGo4TVFVRmc3M2stakFrYmh1QWlkelN0N3AxTnhRMkI5WnRILU80VzZmV2RnTzM0ZjQ4RTJLYXFMNjhIOFdvdUxjU2lhNlNkWHlNTzg4MjhacXQ4Q193Q2dGbVllV2Z3SDBaVHp2WmFxVldfdlE1ZGQx?oc=5"
+      ],
+      [
+        "ONU: inovação para enfrentar crise alimentar é tema de ação no Brasil",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2paUm9MR3F6RGx2NDdSbVpmaklVSTFZRFZNeEFjRExjYzV6NDZXMkZKdlNmRndYYnAzSFQzc0ptZzIyeWhsMDJlaHRXQ3hSODQ1cVB0SmtkVnVieVVWZFpRbWY3ZmxpejQ1TVcyNUtaSkdVZEVLcjl5N0FsYXlGdGlYOTRRM0l4M1phMWg3NjFxUEozMktFTjJ2T05wTUFkMHc?oc=5"
+      ],
+      [
+        "JP Morgan alerta para risco de crise alimentar em 2027; Brasil está entre países mais vulneráveis",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMHZ0RE5PY2ZGOHpacy1QQ0Q3MXZjbVdmYlBZZEYyUGl0WUpfb1dMYVhxQXVBMDRidDgxb0pab3ZTeXoybkZWLVhHR2ppZFlaY29OUV9KQlE1ZHVuclhqZlY4N0N4cmxHVmlMdU9EVzBBTDJobmVkemFqQndJQWg0MUI4bUttZ0FmWTFtR2NTYzB3UHo1cUJPUEpSa25UTEZYRHBZVVBGNnBwZFk3T1BQUks1QmpxQ2JCdUtQTlFwT3RyUVhTb0xoV21uOUFfMnZDNDVRdA?oc=5"
+      ],
+      [
+        "Assim se arma a crise alimentar mundial",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZHowby0tMU5hUlFrVmlMMDFUUkFNOU9mcW9rcW9SNFRpRnNvTmV4N0J4alJhMUx4bGRoYlRxZzk2YmlfRDc4SVlRb0wweVdmckVZbUpVN19NNkxkN2VVNE1wNXBnZ1FkVndDRlBVWG51WW9wYXNyc0o1UlB2RHJDSVpTV1lDLVRkN2NxX0UtUmk?oc=5"
+      ],
+      [
+        "Refugiados sudaneses fogem para o Sudão do Sul em meio à crise alimentar",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kYkNzOUNuNzNiNHRrMV9sMlBmZ3pWRWVPTTRyVU10bVU2dC02NXU1cTZFWWtUcnBSdHktTVpPLU1YWGdZWUhZMDR0Wk9GQmFYdWdaMVhMYw?oc=5"
+      ],
+      [
+        "Banco Mundial Antecipa Subida de 23% Nos Preços das Matérias-Primas e Alerta Para Nova Crise Alimentar Global",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRjgtOGhBOTFJRFl3WUw0TVNtTW56TW9ISV9uWTFzRVd0UmVCbFlvamhsTWdRLWFKVWlUQnJlMnZIQnJoNW5yOXJKUlJqeHYtZjNYRGRBRHVWR2lVTTQ4ZXRkd19hVk9ZeG9CaXJnZ2NvNks2aFVLU1JRRlVXTElHem1Zd3o4RGN4a01sMHVoWmxCc1lCRGhUdmlVekJCRmY5MkZYVWZIUVVKZkowRm1KTHFmTDNxaWlkQ2FjcW5WU096Q0pJWXREUW9xMEc3bU9hS0E?oc=5"
+      ],
+      [
+        "Bloqueio no mar Negro agrava receios de crise alimentar e nova vaga migratória",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWlUVjcydzdDMDN5M2RWdFdzc3hsazRiRnIxUWtsbFU4SXZjVmxVbWtlb0l2bHlUUWtMa3BKVGthTjcxWjZxdXdmV1dkXzBNQzdKaUx1U00tUmcyUVNYb1l4TGI5ajhlWXBQM3IxQnBtOVFIbXhwYTZoaUdRM3owTm9aZlZQNmpxdllwNE9Xc2NVRmw2V0ZEYmdWS0sySVN3N3g5aUJsUVc3VXVNWjRTanEtdw?oc=5"
+      ],
+      [
+        "ONU alerta para crise alimentar na República Democrática do Congo",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0lpOFpGWThfTUJWZ3ZGWDhiR0xtREl4bjFIVEpnVFNQa1ZYaC14c3JOSEZEQXBoRmpoYzM1SG9fZEpob3RVbERsczFxQ3VPUTNGLTBxNXdRcGFWWDNXR25SVFFtU1FZMUUzM2NoSDU1dlRkR01HYlpoU3UxV2Fic2RyWjNoS1RBYlNJUmIwZw?oc=5"
+      ]
+    ]
+  },
+  "petroleo": {
+    "timestamp": "2026-10-29T21:46:28.391596",
+    "items": [
+      [
+        "Exclusivo: Crise do petróleo leva Latam a ajustar 2.476 voos no 2° trimestre de 2027",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd1NHd2hjT1lLb09JNHhKT1FRdmlZRWxzVzVaaG5nMkZnUHlWM29wSDdqaG1lbDdMTTJFaHY5OVBGLU1vQVpuRXdIM21UTUZXNUtiVzdkWVJZWDNrNnhIS1N2SWZNbmwtY2QxNW8wQjlQRjZHc0lmbE9OeGw2WkxVNzlLS29fTjhuZFZndnV1OFI3cTFqallMT1VZX204T2xGcV9hb0Z1ZldhMWp3bUs3NkhmUFBnZjBQUTFydFBKOHhFRUxWalRCbEktME56OVJMWndKY2pOUdIB5gFBVV95cUxQaExWRDV5ZC1yNm93SzVWVE5TcGFyMi1oTGZkT2xVVEpPalNtQ2VRMlhFYnR0SnhVREdueE0xZDhRLUVHdThJSzRTNnZjOU5fYnNVZjNmN1ZrQjZlWGh4ZlVxbUlFVm5GZzgtaDJhV0g0c19WUGtENmpGd0hVNTVrN2NUUFlhSGhhUFF2UTk4Q1d2VTM3OHpydmVvMzB3RHQxekhOT3pmTGt3YjBfNG1OQWZjeXhBS0xIM25USFduUTZTSGVCTGJQT2JsNkVodzZuX282MDc5dWdoOE0wbkZJU1diN1hTQQ?oc=5"
+      ],
+      [
+        "Petrobras anuncia terceira descoberta de petróleo em poço na Foz do Amazonas",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbERLckxNN2FnNk1hQzdxelkyRWE2Y1RDUjd3S1RxRXNpOFVUQjFaUGRKLXZ2djF0Z0o0WUs1OTVBRVBBSHlqTk1aYTVHNDlVREF0UmF6WHotb19TSzU4a1hGcy1LdVp6RlphXzlpcnMwd0JtSFNGNXNsUlVfYWFBeEo4dm9lY1U5S2NTWFlSWVFfWTJvc0FGWkFDYTE2YVV3U3NXc3lvT1JWV0xiZ3hsSFRzcDFkd9IBuwFBVV95cUxQc01Rc3hzZklIYURiOFNHMEhGS0k3TDRRREpjR3A1cS13ci16OXFiNnQwR2hGWTZ4bk9yeUNjQ2NSdkwwTnZhdmZ5WC15Z09ORnROdllVNWVjLW5HSXRfNDZBeUdDVV9DdlZxWWFfVGs1RndGN2pDVllJQk1sRDVhVjB2a0xmZy1DRzFVVllyRE5pZXM4RFQ2bmQ5NGlsRmJmMm9pOFpxcTFyNGViTkMyYzVGTUdvcXJBRjhz?oc=5"
+      ],
+      [
+        "Projeto cria regras para reaproveitar plataformas de petróleo para outros usos",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRVpkMXBHUjZma0Q0WkZ5MGVZdUZjOVJfVkswcTFEcVYtbUdKYlhvWVVGNExqckxDZFZSS2J5TWMzRG5ZY1kzVFF5aE5RV2J1UDVpYlZxclRxS0p3Y0F2aWF1WUNiT3JNVlltVklZX3NkMDB0Vm5ZODFmbzVKQmE2UkJNbFVvcHJydktXZWZ0RER6aUVHaEZ5QlQ4d1NvZUxiOUVYelRRS2NudFZ2TEtqc241a0lMaURhd2hYZGZFQ2tCeS1rVUpIVjJ4NVJseW96?oc=5"
+      ],
+      [
+        "Petrobras, Petrochina e CNOOC arrematam cargas de petróleo da União em leilão da PPSA",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcG1UTHJCZ1J6eVduR1oxVnEtdGpnYWtQMTdvUmt0YWVCUUZ6aU1GOXcxbHJ5X3dWcnhVYU0xeW5HSkdWMHgwRUdQMWVOeHZmTW1nLVpMdVhlclNsRFBqN2plWWFQSnNtcl8wTUVzT1FKN01vQUU4aTFHdFM1eG5Ra1VaamQzX2lqTkZzR2FsOGIzN0ZqdlVwQjYxcV9UblBJSlA1NE5KaUstUFZYQl9iOGRCNjNIbmUyby1XZmoydlLSAcYBQVVfeXFMTTI1MlZ4UlB2TTBLNUpURkRSdnZlVGtocXVzbjhIV3RZVFMwRXhrNlFlTVdnMmZBcTgzZDM0Q3cwZEJhZXFGWlNWV1NJYnZyaS1peTF1S3FDdDA2a2tuRVBUc1pLX0gtNWIwVmVhTTNYVVhYMEwxYjNGemR3MVRscHQzSWxOa3JQTU5ULV9XTWx4c3doYXBMY3hTLWpnNDFQSnZFNDBaX24xaTI3SzZUZU5hZnlXdVFjSlBCUXZySVNnTHhCRnZ3?oc=5"
+      ],
+      [
+        "Com minério de ferro e petróleo jogando contra, Vale (VALE3) vê lucro cair 54%, para US$ 1,255 bilhão",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcWtzZlN1d0x5VTFRcXRjdG1CNXVMX3NNTng3el9TWU1uNzJmSWdPUWVjUVdPdmVjQ3Vva2wtYlZVeWg3Mzl6MUZja0hVbXdzYmo2UmF4LV9nUHZpajRZVEF3VHAzRlJwSThGR2hXY2dfR01YRFlFeWs5Y1UtUVBUMGc1LVo4bVZCSFpJMDNCcE5DSEV4U3ZWdlowRi1sd1NDR3VPVjVLR2JKWUNfYXFhY19mU1RDTnBLSTFkajBZekhYTWtSdk1VTG1rTEsxTFo5YnBn?oc=5"
+      ],
+      [
+        "Petróleo cai em meio a sinais de avanço nas negociações entre EUA e Irã",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUZ6eGphaTIzcE1YQmZLb3EtYWc1TFZJRnhqU0lDUmE4X1JTdGNPejdXbHVRZjZJWHVMVmNCeDlpZnU5eHVRNWVPRExvMXVBTnQ5b3ltT3pWTnRaR09FWFZacHlZM214TlUtOEtlSHBCUmlxZkRZSWtiOEFwNjdHMmJDS1I2RmVvb0tVRTVDbWE1NlRNZnJmclpnc2htbTNzekRtLVZIblRvNUNGT21tWEtDMVdId1hDUEJ1TmhMbVJMV0duRDZ1SNIB1wFBVV95cUxOaFc5Vk95ajg3NTJnVnNaR3JQU3VWTU53bkUwUkM1RjVhLTRiYXhPbG1Ta0Y5aExWb3JkTGFuTFVjZHRhVThsekdoa1RMWm1Uc1Q5QVp2ckNuVlFiLTRSQXNxRHQyN1l4Yy1NSEZxNjhrTHE0Y1RzX2tpeTBCRGUzXzdOUzFKVjhILURvb09SNkloUHF3NnhLS3lubUc3SkpCX2lnQWhfOG1BN09wR0o0clA3M09lRV9fNGgtU1VZS2lIOTZHZFRDZ2FHTXFDZnRRTTVnWHdNQQ?oc=5"
+      ],
+      [
+        "Petróleo hoje: siga ao vivo o valor da cotação",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ2JQSDhrYTM1Wl9yR0NxeFhkVnlSaFo3TnZhcDdCcWtWVmpOdEF2dU5TWFB4bEF4dVBpVktjUzdCWVJKUWxKZlVTUkpISUk0TG1LeGU2SzRySEFhX3gxSDcxc082bmlGZkc4Ql9aRHd5dE44cUphOTRYM1VBVmlGai1xSmhHb2VabmhyUE94VzNSRDdVaWc5bDgwcGtpOUZ0N0NCNmQwbTFEdG14Z3Zzd0xFUE9XSU81d21taDItSHdXSDNlLV81ZUhn?oc=5"
+      ],
+      [
+        "Petróleo sobe com combates no Iêmen e ataque a refinaria na Arábia Saudita",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSlV3SFZYVF93SkJTdXM0VGlfZnppNG5NbWQwOGU5c0FJZ3lIWlJCUWk3MGdTeVQ3MDRkdnRZd2RBTG1LVzdhSVNRLWpzRVJtUTgzQm9fSXpKa1FwTjUtaThrNnZlQUFpNnQweUpZLS12SVVKM25mVDNhVE1mTUx0OTNkakQ1cHBtS1NmaNIBkgFBVV95cUxOVXdlUlZMa1dQMG40RHY4akFZRUVRRWZiMFV0a2I2dGMwU0Y0SlpIcjRfbzVEcXI3OV8wNmxuRnJYcFhhMW5QOGRoNlZaUW1oUnhUZndUODFYVDlsa2ZobF9oaFZtbzZQc1hFZVM4M1NFaWZHMUFDYVdOU1RPVjJkRE5tbXJ4MUhoMzBFQUpRUUdVUQ?oc=5"
+      ],
+      [
+        "Governo vê R$64,6 bi em receita extra de petróleo em 2026 e liberou R$39 bi em subsídios a combustíveis Por Reuters",
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVXJzUW9xZTBGamdobC1hcmlKazNFaTNmSnFIMFFYbFNSNG5MWThjVEZUcWVET1FaaTdsd0lISnpiUUIxTmo0T1p2RjlNZ2xSNFlSUFFpVG0wUjBsZElDbGVJeWxkRnQ1N1hxUXp5bFBwMV9tbEFfYUVEVWJZY2FNM0dPYU5fRGhaRlpLbHdDTUI3UER5Q1NlWmtrZnBCUkVQRTczLWc3OUFITHVoV3NGVUFCcFlGVElBRlNoRW1hVko3T3BMMEJIaFhOSG5OUXNrOFlzdXhvOWYxZDVRX1hoLTYwbjNQc0VVUHdJ?oc=5"
+      ],
+      [
+        "Brasil bate recorde de produção de petróleo e gás em setembro, diz ANP",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRHVlcWRkQzhpUjM5cmoxTDBibVdEdkxZOTVpX1BSMkJGUmJvc2JrYXpscVhmWm14d3pmcVdZUGxIRTRGaU9qYjR4Z0VrTWJNeVFza0o3akNzZlRKeUxMMjZNYVdVazJlMms2WWhPVTJjX0R5cHE1aDN4LUo3bHNXVks5ZWVERkRudjI4UnJFZFRhMWtfOGJ5eE1mRTYzYTh2Uk1qVlYwYnBVZm9FMTJuQ2J6MUVuRDZ4dXBzMlVxbGxkX1RxaXRNSV85b0J4OUtvZS0yNzl5eGZDbzFWdHJYNWVTa2s?oc=5"
+      ]
+    ]
+  },
+  "h5n1": {
+    "timestamp": "2026-10-29T21:46:29.057299",
+    "items": [
+      [
+        "Bahia prorroga estado de emergência zoossanitária por gripe aviária H5N1 por mais 180 dias",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbWpXTHY4LVl3YlBsOHZBWTNaVzNFZERRWFZzWDBKenFIUkpjTGNHSFdzSEw4SW1xYVpKa0VUUzJHTFZLdmloLTFMcTdZQ2wwR2c3YUlWaHdsQzFwbnBvUUJNT2xPT3ZoNGNxRE5SMm9CMnVuRDJPMGt6VWdBczd4aHlNQnliNVBXSkhZb1h1cUZzR251QndTc1ptUkhGTkhmV0EwTWg2d2V1ZUxSTEZMM0VPUlF4akkyNGdhSU9nOFRvZmZ6eVHSAdQBQVVfeXFMTTRtYWdtcEFHV3R5UFdOa3drUGRVZVpCN19aamExdzhwS2dXUWh4Wl8tV1FRR0Zzc21zQUtkbFFHV3E0OEFXVVc2RU1RcmZMTXVwM0EyV2lDaDlMMkRweHpSRkVGSDBSM2E2NmhkRmZhUjQyOXJLR29jNFl4ZVVpcVVySGlZN3JENEFXb2JoQmp4dFpIOG5MckFKN3ZCQ2RhZUhySFJXX0dfRmVhNFJJaDFwZWtnSWFSb1Y5aF9lb1JLNmJ0M2Mzem5iQjZHUDlDZ2xZblE?oc=5"
+      ],
+      [
+        "Atualização Epidemiológica",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVBMZUZfS1FlbV9WTUxMSnFVdXNSeFNtSXVlTjN1QTExVWxzNjJkOF9ybW1uWkFrVXFEYkRmaEpEaVRiX2Y5Qlk3UFJOaHBzeE5FUTBVRnJ2eFB6aG9seENLX1hjY1NWNktUeGFLeVFJT3g1aXNhUTRNRi1Od0d0Slo4Q0N1WUJMTDI3MkRXdTVEWHNsd2xWUmRiOF9QSmF5Sm5FMGtGU1pXeU5lTGQwQmNSV0NJaUdmS2pMVExR?oc=5"
+      ],
+      [
+        "USDA confirma novos casos de H5N1 em aves comerciais e gado leiteiro",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3VHaEkwdW1UeHczOHVVdUxwd256NTg3S0duMUdZZ3VMeFNSdFlFTzh3RVZVeXpEdXQxZ0UwbHliV19HOVdvREZ6OFhKYmRKSHBVRU9BZ2VFV2l4Nkt2UF9ZMEZoZFVKLU9EZ0hyakZYbmFXa0hwNmVodTlLWFE4RHRkTkpqMXhlZUZQWE5faE1EWkl3YUtpbg?oc=5"
+      ],
+      [
+        "Austrália confirma caso de gripe aviária H5N1 em mamífero",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU0hxbDJSeDRNRDRKc3Q1MXNJZF9uQl9qeTlVdW8ydkFPZmZJWlRLcVVoemhyRnJTbUxDTnRMZmduazlMaVZNX25yNnZfRzEwQXVmR0tCOEdHMVJ4SWdvalRTVlVXR01DdmtHYlNxaHdSa1FITkhibV9hSlRIZkpxVlFSaktKcnRFZ3BLSkxLYnBiV19XTERXMkdR?oc=5"
+      ],
+      [
+        "H5N1: o que é a gripe aviária, que já matou milhões de aves e infectou humanos?",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTHpZcFBRbk40TG1mWkRXQWRMTG52VnkwSTJRdjg2RWd0bzhycXdDYXNLN0VSTF9lak9nSUJiMTJRMUc4Mzl2Mk5ra2x6S0p0XzdxV0dxb3o2Q3ljN0Q1YnFOcm9HZjRicHpuNzhlZTVFWVFlLVBBR182TVVpaU5mZEFuLUpRcm9nSmxDQkg5WUtOaERiTHd3T2k3cEdmMi0tem5fOTZR?oc=5"
+      ],
+      [
+        "USDA confirma novos casos de H5N1 em aves comerciais e gado leiteiro",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmN0aTl4Y2oteWF0LUNEeWtCeERVVG16TXAyMDExLWt0NkZ5aGs1cDVqN3FvVWlLRndaYW1ha3RpZHhVbzB4QndWV0RwT0F5b1VscHJodEp6cnZTWW5vdE8xanlBX3owMDZFUzlhYlQwaDdSUDNhT3ZPWGFTRndwYUtiTnF5a1pMbi1zUkZ2VUN1M0MtbUR0UVVIVDFEblk?oc=5"
+      ],
+      [
+        "Gripe aviária H5N1 é detectada pela primeira vez em mamífero na Austrália",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkdzanp0QkVpOXZSclFLWEJXbXF6Z05kLVhmN2VqZDFmRjNRLXFUQVVmcVJLYkRIWFl1aE5XWkMtT2ctWkE4Y3NaLXpQMmV1eWtEQmN2VV82emNrMnlrUkVvQlA0RTJzbGhYN0pQaEZYTVV5UEttcVVUQ1dIckNzRWZYbjY3SzZBWTh0ZlJPYjZqTlVoWURSNHFzTm81amdIeTRGOGtmcw?oc=5"
+      ],
+      [
+        "Austrália Confirma Propagação da Gripe Aviária H5N1 na População de Aves Nativas",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWC1HNEhsQzdpZ0RGbTU0dW9WWDNLYm1VdmxSR3JZQmJyNS1VSEF2U3FiOThOS3JmUllqTmlGNTBsYzMtUEtYa0Y3a3F0U3FaMWY2UGtYd2xFaFBaS0UyakxGVlNZYmxLXzNWN29Udmo5WlI0ajBBbUtkbzVRUjI0T0lMWGYyX1ZUNmNLYmJxd25HZVNnYUIyX0FzazlGczRqRWVrcGhtQ1RaYVFjYTM2Q2tQZ2lld1FPWmJWTkxGMVc?oc=5"
+      ],
+      [
+        "H5N1 avança na Austrália e é detectado em golfinho",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeFd6cklvUGpZelA0SHprVHcyUVR1M2RrVU1ISVptd3M5YjhZME9ZbG84cFZ6dkhRM0tlWi1mQUV2MzFud3dUa2U2QW1RamdpRF9jNHZyb0VQdkJCVGd5Z3JJLUFmRlJFakRwWnJ2Wk90dFp5aXd3UmxLWi1weFdqa1N0dw?oc=5"
+      ],
+      [
+        "Gripe aviária: H5N1, H5N8 e H7N9, qual vírus é mais perigoso?",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVpxdXEtcXI2aXZYQXR6ZDdqQUljYW5GVW5EdVJPVWpVY1A5YnQ4clN2S25vVXI0VUsyZUhLc2JBOGk0Q0RwbDZYVHRNNzNZelZFbE1obzlkamdDQXpRSHUwVWFSdmx6NVllRzEzRmVSV3dQUHFxTHNRTHVzWVl3RE96MGRvY2YzVU1sUXB0V1pNSUg3OVh3aDlucXgzRTNZNFVFZTZJc0hkSjdOU2Vaemh3?oc=5"
+      ]
+    ]
+  },
+  "nipah": {
+    "timestamp": "2026-10-29T21:46:30.659648",
+    "items": [
+      [
+        "Transmissão limitada entre humanos reduz possibilidade de disseminação global do vírus Nipah",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS2twSXQ3bk81Ym5ubFNWX05keUN2LUJEOEZ5azVqZERyelRFdVlHVVVQYm8xMmFKNXByVjRUa09ZcmZhZ0Zwa01hTnpMUlR0V1VMSEFCVkJ2eFBQRGRYZmlGNXZFT0lEdDdncG1hdmZybUlRellOQTVBelNBbGk5UXN0UXV3QWVpQktITUdmcVJQNzY0U2p6UHpzcFhfWmVhcVlibkxPQW9ZeUZicWNQU0J6aFR5SW82UC1FbE0zMW41UQ?oc=5"
+      ],
+      [
+        "Saiba por que é improvável que o vírus Nipah chegue ao Brasil",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb2o0QXlRamJMNERVVVVaSklxbjM5bTVHMWs2WVY5UEhPNFZydXU2eldENGtlWkp0Xzg5ZHJpWW5rMHBpOU9UWWh5Vkt4Q1lELUx5T2tEaHRyV245TU9FbGx2NTEwN1IzUzQ5dTNMbURuN01laDczaTliUnd3UDhSWlB0ODZ4TktkWFVpNmJfbmJXc00wUlZGOWFla0RZMmNRSVZkOHN2bkNCWUtvdm8xcXZDYmNkbXBhWU9WWXdPWklvbHNMalpwQUd1TVl3VGIwQnc?oc=5"
+      ],
+      [
+        "O vírus Nipah pode se espalhar pelo mundo e causar uma pandemia?",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaXRNN2hsc3U4LWhXU0t5SHY5S1hkQWV6YVZzS1B6MjlJM3lsRG9jVHdsMzc3bGRpaFRQUnBPTkFkZlg5ZmU1ZTY4UVRZLUxBNkxfdk1zaHU5VjU3WWNBOFZESTlGQndvY3RqZXRlMjJOc2psbmpJRFJmUXAtRE1sd2Q0N1lCeDVwSHhaSUFXY3k1aXNtaFdNSFpCSGdfbGdjN01YS2F3?oc=5"
+      ],
+      [
+        "Nipah: o que se sabe sobre o vírus e como ele é transmitido",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94MU9YNV9oWk5xbXQydHRLUm8wNHloaGZpNGpESUJsZVQ2UWFNTk4xZm9yb2lpcHBRMWJFZUdHcXBocTMybXZBUHBldVZfLVlQcjhiOHI3a05xN2d6OFlhVzZR0gFnQVVfeXFMT013YjRldC1EUGZ0eXFHU0trTmNZdWtSTGQ4anlYTm9SUFp2OE1kNWc3dFVyVzlxWDdhVU1lWDV1Sldxb1J6VTlyS0V6UDRDYkJPOVdzYnl5Z3BHaHVMOHZubkxRR0k5dw?oc=5"
+      ],
+      [
+        "Nipah: entenda o que é o vírus com alto índice de mortalidade que causa novo surto na Índia",
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ2pIZFpsV0tEd25VUndtNmxsTER2S01IeG1JWDlkejBKUmRJZk1OZUxDR1VzbW1pQnhlY1ZkMkJzeFJBNG9HQW5hczl2LUVqb3JyNmliSnRCYWdZNUhTaEg1YkxfSWNZUVNpZXAwNWxSdHV5ZHdTbHBoV2pyM0lCWTdHX0JvOU42VndweVlwaVJDSDBLSkpaWTdiMGFBOGFSYzhhWEUzV29QOGhSMEZTZjNsS0RyR3k4RlZxdGUyQWtGRW9Xb0pPUUo1RkhZMVpKNU54UmJ0MW3SAecBQVVfeXFMT1dVZkhDTUZkWlJXaDE0NWRNWUZRRTVyek1RMEJTek5YTDZDT2t2N0V5ZUF1OFp4MXctalB4bXhwMElTOHJyRk0zOWFxUFRfbHBzTHoySjF4TGliY3dHUi0wUjl5OHFueG1Hckk4TFB3b1plaEVHTUFXRmp3c3ZGel9mZUNXUHM0YWFLelNISGcxUGFfbmJXMXc4SFdaS3g0RlNCbVRIbVVGakZaZG5CQTB6VlZ5cWI0NHlnWlBVWW81MUFUUm9icGdXeE9KUVlxdVRlZi1vV0tIVlFmX1pTQmc5X0Nlck5N?oc=5"
+      ],
+      [
+        "Vírus Nipah: vigilância e atenção",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeFRIQU41eExiWTF3MjRvUFYtVjhSN3hIR1VaUjlrZDFTU0RfX0xOcmxJX3FITGVYMjZoZmVNampXTjdvMzdYWk1PSllheE5PRklTeXAxMjVkTlFRUVpra0hOT1k3dWVUSzZ5cDBJM0tIblZET0ZsWnJGaWNHYXRzNHRvRGFIYWhOWGdtUnJScw?oc=5"
+      ],
+      [
+        "Especialista do HDT-UFNT tranquiliza população sobre vírus Nipah",
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZ2JDUkZIUllfcUc5bTZfWWNnMW1Xc1ZOamNtaXVxVHZTTlllVFdNMVZRMTNIelNCWUhWR1J4RFN5bnVCQ19SUWM2X2dTdEt4VHp5WEU2RXo2RHF2S3NCTU1sNDVzYUdEZ2FPUnNpYWRpT3hfVXp3amEyd1BNY3BFSzc2bDZXbExrLXpHbTJsTFZkMGtBSWllNmdhR3Y3QTQzaWJiNl9pZUlNbXpicW40dGxkM2JMalRULTlQWmNGc0ZEU0JmWnJlWE1yQzRDVGlwVmdKMnNRU215LWxjVXplWm1xWjFVelFwckw2V3dJcU9fM0x6MDV1YUln?oc=5"
+      ],
+      [
+        "Vírus Nipah na Índia: por que vigilância não é alarme",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGdmeDEtaVpOOTdIVFEyUGtKSUhUVGpyeExLN0hmeGxDbnRySU1Xc0FqN1RRTG5ycllUZXZZZ2FzSmRvR1Uya0JtR0J0UEZYOUdUdERYNUpUbDBhWXNRRWVDMU83UTR3MUlYUy1WMXlRZkFNdXVrSXNmemZOeDBUUlJiaGwydV9aN1VDaFVXcDZYc3dWaGxqN2dYdzNJUWs?oc=5"
+      ],
+      [
+        "Vírus Nipah chegou ao Brasil? O carnaval é motivo de preocupação? Entenda",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcTZBTXVkYlRza01Ma3piQjZKNkhHdWViLU9aNTZfbndzOEx4eV9NY25RNTlxY2QzY1BXZE12MndTX19jbU9zMzlreVFLRU5pME8yaUhKNmgzRU1jb241SEpVdWVLZFFEczMzYW5ic2NIblo4azhpYTFyUElpRWM0UmQ4NzZTNHFXS0JlbXZWN0VrU3Q2RGtDSnp6M29ERmpTd0syM0UwbEtQODNiUWxxZENrNllBaE5DU192NnIta216MVBpaUFaQ9IBzgFBVV95cUxQdnU0N2x4TnlfaU11dEVmbnc4akwyV212SEgtU3JFTWdkZXpKck1UZFdsZzRva1ZOR3hKeS1SeVFIQ242WXJRSWxMakJ1cjRNeDRXX2FzRFZfclZqeUtHSHVTWnVYLUtLNXp6c3NKaFFFS3NJNHlEZjRMOXpSS2xpSlFBTXZGSnhpNTlTZmtCa0JLX1poa3pGWmE4azBDNFNEdTBqemVCa2JLOUJtWEpKT2liZGVoZk4tQmRWa0xHcFVid2FtRW5tZGhPMjN3dw?oc=5"
+      ],
+      [
+        "O que é o vírus Nipah, como ele é transmitido e quais os riscos para o Brasil",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUmFvX2p3Y3BIYkVNbF94dlpRU3RIT1VtRlU0Vl9jOHBGWVdGa2ZSeTg4TEhUbHN6WXFUMHNCYWxpTko0Uy1MV01HNkgyOXZuVnRoUjZuUXptT3dPNnktcW9WWS12dS00bHVMM3ViOHJ3cEN5MmlHQWthemRhTFRFWExBM1ZUcDhyb3ZFY3VaODlROTd0b3FVVU8zZmVhdFk?oc=5"
+      ]
+    ]
+  },
+  "hantavirus": {
+    "timestamp": "2026-10-29T21:46:31.600600",
+    "items": [
+      [
+        "SP registra quatro casos de hantavirose em 2026; letalidade é de 51%",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMW1rZ21pang5bnc5WUk1SG5ZenYzSWtrNXMyeU1uMG9WZ25rX01qMlA1cGVYRFFLYjNObTdkUFVhcExFMldFRF9YY3NBUUdIUVdGV2NTMXk4SzNBOVVXWWxDU1p2Sm9XYV9YWDdHWWszNTBGME1DNkIxQWMzN1pLcjB0VC1wVUx1S1RIZ2VKMVpaMzFHSGlMYlJjTlMzNXZqaW1CSA?oc=5"
+      ],
+      [
+        "Por que o Hantavírus já foi esquecido como ameaça à saúde internacional?",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0JpcmpaVC1QZ0E0cDMxb0c1QU13NjQ5MlFMeUYzSWRPUzhuLXlWNWRfTFlWMDItTmRTOFNWbVpVTnQxUEJjVko5YnFyTDZITnVhdnk5RV93NkU0Y1JkRWt0eXM4aDQtem1NaGtHWTd3U2hOWFY1Uy10Q0JKOHNGNG1nMlZlWXlxYUZza1ByUVVFM0Z2bmVqLXVnMkFvNEk5bDJiOFZFMFNkekpGVFZkRHpRQWtJNGlWS3NxdUJB?oc=5"
+      ],
+      [
+        "Saiba mais sobre o hantavírus, suspeito de causar surto em cruzeiro",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdDZZTXNralJBMUJ0alhXbWpYWWlCY3cxRXpfOEtiY3dvYmh6TkUzT0Q3eXBMajRNdVJmYU1uTGFJT2RRRjF3MkQ0ZGZySFkzZ3RCalRvMFdXWmVHRmtzVUprYzNwOWpaQjJJOS1GVDJ4d21BWjBPWDBjNWtVOHozMXZjZ1ZyVUxaTldNRHVDT0ZFaGpZUG1qbFRJTWNqNmVLMVZjeXc4QjNkMDAzUE96TmFYN2lSMkpWOGNkaGVB?oc=5"
+      ],
+      [
+        "Turista testa positivo para hantavírus na França",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXQ1M3NPV0V6MHMzejRvbVY0Vld1cGxhYXVvakZZWVZIbFp0SkpSbWNrYkNUNTNyMXo5ck1MMHdUd3VCd0lpaVZsVWVYRHhSTlREMjdjZHl6ZXNpSm51c0FSZ1ZMX1dEMC1INEt1cVlOLTNSZFgtNGpveF9INE1iZzZNMFNSbFNEQUo5aWRRcW0?oc=5"
+      ],
+      [
+        "França recomenda isolamento para pessoas que tiveram contato com turista infectado por hantavírus",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmJYNEZKb2w2eTZJbWEyUHB6cEZpY0czR25ZdVJ0WmNoUUtOY0V0Wm9fOWpjbXJtX2JkNnd5ZFpLeVh2TF80TEpWeEJ6MGdJZXJZNXhzcVlsN3dOalYyS3RXNTFuekJIX3VxcWJCVzFVZ1ZIMmVRek1fX3R0WGdHbEV5OG1xOW9aOHM3SXh0LWhGbldCNmRubXZTVDVpcmVXLTJQYUZLM05VaG5aUDhRRVFrUVJGY3NYaVdOVHdoV2FfUDdhZzBVVDhKaUxDR0hzeEI3cGh2dVk2VHfSAeABQVVfeXFMTnUwcDROU2d0ZEJIRHByenhsX0RCTy1yb3lUbVNVb3pCdDVFZF9hNVpQQlFUdlk2Z1RWTEZiYVNaZmtFb0NsRkQ1aDdLRHZyQzJPN3pMaXJwMEE4Q1hHV0Y4ZF9kWXk5UGJndnczYnlZa0NiTU9TS1NXamFrZzJVZmhKS3hZWTQzczdIaWJsOXdid09UNHNmTFFmV2xZb2h2WDV4SS1UaFQ5LW5CUkVaLS05TkZ3cV9nRWNPbkxGdlprcVJTRXphS21TbF9wRWprcGl1MGxQUV9ReTQ0NkhaTGU?oc=5"
+      ],
+      [
+        "Hantavírus no Brasil mata quase metade dos infectados: onde há mais risco (e por que não tem a ver com surto em cruzeiro)",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80R3hYWVQwZWFOVWN2c1FlVjZaTzRJNFBPUUhzVlZxZ1R4SUVTbzVjVFZpNXptZklFNlhfbjh4MG9yS1o0LXE2akZXRW9PcHljSGVkYVNmaEtvN1Vnczd3Y25n0gFnQVVfeXFMT1RXYjkwUjhTVXRiZEd5RHAyODFnZVNjVnJsUnVwNS1NQUdNRDVXbllKVWJZQUVCMk9heDNZQjVtYkVkZ2VnZ1k3dzluN2pWT1lpNUl5dHM1SUI3eXlSaEZDdDlCbTFnNA?oc=5"
+      ],
+      [
+        "São Paulo registra quatro casos de hantavirose em 2026: conheça o quadro",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMExCTVBGdVRJd185RGRoWVJhU21kbjFTLWhpSFU5ZUtJdFFaSW9mVkV2TmNXZFp1N0Z5TEdDU3IxRlRwQTdxa2ZieGREbXpfcmhqS3V4YW0yazJlaGx3WGNnQ2FNLXVweUFXaVVva2Q2TF9remtyNms4WDhLbHJkNEE1R1pNRHNfRGxKSU0tY1R2OTl6YmV2R0lyMEx4NjkxVVMyTkx6LS1Ybzd4?oc=5"
+      ],
+      [
+        "Hantavirus preocupa pela letalidade",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yYnRtbnJoUFV3ZV9kV2RDTnVJR2I5bTQ0WFRMTGVDblJ6YWJyV0locExibnZQZml2WGRQWWlib2IybmYyR3BJMlNCeEVjenpVWUNkeTJZdnlKMldxMmlqYVNUQ2JFNVU2?oc=5"
+      ],
+      [
+        "OPAS promoveu sessão de perguntas e respostas sobre hantavírus após surto em cruzeiro",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTElOcVRPQ2wzRWRfd2hZb0MyRzNfSnBhVHUxSDI5ZERVdkpoeGRFWU9DOTc3VHZDR1NQTzlZbjA5amJVMm9TSlNPWGV3WTI1UzNYUDNRZWVGS0tVbFFVU2pEUHhzdUdvNFdfeDFpM0ZYWFIyRW9aVWRvOFRONTI5UmJ5ZzJDYkhHZ1ZmYTBGTk5mSzhreXU2VThtSFpzM1g0bjVYMl85NE5GQkZMeXlJVlhvYVB5YTQ?oc=5"
+      ],
+      [
+        "Hantavírus: qual o risco no Rio Grande do Sul?",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGxCYWVtaVZuRmxGTlJfbTdodDFDQzdBYVJ4S1Z0bzdXMkJLOTdBYWMwdGlWbGVaZFVNVU1lMDFyX1h0M21MOXdYZTVXbmhBbmVMeElUbkNLbmJfM0EtRC01Z0xST3dSR2FYWTVyWFlsTlR1VU01Zl95SXVqWlhxYdIBhgFBVV95cUxNUmdoc3k3ZE5mdGVsUWdJSUpORUdxLWZaNU1TLVZueDE0V05FSDdHUC1JX2E1LXdaS0k2aTNyc0k4NXVLUkMzLUdYNm1oVE14S0MyaG9ybzQwdVZoMXN0SjZkV1lFQ1NiN1FGREdET0pXejlmczZ0MUxKQXI3WGxOeHJDNllwQQ?oc=5"
+      ]
+    ]
+  },
+  "marburg": {
+    "timestamp": "2026-10-29T21:46:32.320815",
+    "items": [
+      [
+        "Ebola e Marburg: doenças por filovírus ganham novas diretrizes clínicas da OMS",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdnl5cFBmd21udUtmWWVDZW9yZlBuSl9RV2dTWlUzS0Noa19IQXpFbTlTMnhUOE5rbFdDallPVVRDQ0c1aU5wMGxBWkZwdHdtbEdzajJQVm12RkgwVTdsRzhrNG11Y1NnMjNDbmRiV1d4cHlnMlRfUVNOTEJxRGZmRVNGTG5zVkVkLWllUVFrRjJPZk1yZXVWYzR6cmY0cXBJd1Q4dTdUUGxxdW9reV8xNl8xVVFJMFYy?oc=5"
+      ],
+      [
+        "Um caso de vírus de Marburg confimado esta semana no Uganda",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR055R2xDbDcwRld1SURHREpxLVNVVG5FakVDdi11aC1WaTZyOTJFR3N3VlNBNFBJTVphN1I4Q0NwUHo3aGgzVDllT2hmdkxHOUNqN2RWNXBDZFNxYlBubVl3SjF2TGJmNkJ1QXQ0ZGJqX1NNQ09heXN2MFdSRlZDeTZCamtDSzVMUVVGWnpSN0Z3ZXl1Mll1M0N2X0oxbzJTSk5ZcA?oc=5"
+      ],
+      [
+        "Marburg: entenda vírus com potencial pandêmico que preocupa a África",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUh0VDlBTUU2bWZ2Z0dETDhnUzlUQW1TMjV0N1pBdER4T1FWSWs1U1RnQkJLN2lrcWRSUmlPWEdPTExqcjUydS1XMmlBMGdrMjI4dnpCRlV5U3FzUE9HT2JTZ0JWVV8tQkx5UFYtMGFXU0NwTmgxRl9xQ1BfSG1uWmhocUhYUTMzdEpTZTZWU2toX0VodnJqazc2RmZOWG9VRUVSWC1hdFNYSzQ4SVFobVpmVkJSS3hOTGdxcA?oc=5"
+      ],
+      [
+        "Uganda: gruta revela segredos do vírus de Marburg",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmdnZlZSQ1ZBNzhONDNpZU0zOGppZENzb1hlUTlTWl81NkVaUFBHZTUwdzQ5S1J0SllEU1NlY2J2WmRFYzlIc0ttcl9HSjBESW9rMDVpdFZaZEFSTVZZaENPNkRMR2pQclhWX1R3bmpyM0p6VktmMXBtR2ZHZVRYODF4NWFOVjUtemhJOUZPY2tzZTlpTFowa2VNdVFWM001eEJJ?oc=5"
+      ],
+      [
+        "Vírus de Marburg, semelhante ao Ebola, causa doença hemorrágica de alta letalidade",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2hQb0dtSkRxcWVjeE5sY2p1d1lkZ3FkckVEV2tManZUZ3RZcDFIWnBDemF5N29VS1hzRTBnT0dUWU9UVE5fMFRIS3lmcmgwNXpGNFNUd2ZIclNialFfT0NGR3JfQzlXamtWSy1vTmRuc00xMElkajFoN1pXZlJCcVA3cWFnYUIzenVwZlA5ZzhySWlJLW12QXE1cEctdEhuTmgyWUtGZFhIbG9OaVNXS0RzTQ?oc=5"
+      ],
+      [
+        "Etiópia vive surto de Marburg, primo mais letal do Ebola",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaG1BVlg3a1JHdDhsMWI2VFlYeUtLNnp1ZS05eFdZbjNEekVTWHJjRk0zeFExZmFiVy1fZXpka3ZpcEN4b0g5dE96Ym4yZWRSRm5lYVkwX0wwVkVSOFFXd3lscDNxMnF4bjBZdmlqZmVqU1NyV0hfUm5hQ0M3RzhYbE4tcVVpYm1raHRkQUQzU2p5akNkaVo4ZExEakVjQXUwRXFmazA5eXZ3cF91b1FvX9IBvwFBVV95cUxOWTVsSlBBR2R4UnBnSkxUX1lSYmZxNmx0cGRaVzhNclAxOHdBdVlBdEdxMURXZmNsZFBoZ244akVQVzRzSl9DYnV0eFhRd0VfUlpxblpwM2hpNmFJMVFXdXEyRXVORk1qZklkRnhOOGJqVmhFVmJuZkU5TnU2OUdvem1VZE1JeXpqOWVlTmZUVElSeUJTSkl2cEYyV3RrbDJvVVNqV05ETzZidG5pSW1aajF3TEpFRzNQbUtjNlNtbw?oc=5"
+      ],
+      [
+        "Vírus Marburg: o que é, como se transmite, quais são os sintomas e o tratamento",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxORkFyX1RvU2RWUjBkbEhUN3JYZ0tUZl90a1JGcGlVX1RRZjk0VlJFR1k2cG5JOTJNMlFFcDRpTGJjS2dGdFNvZTFVNXlnRGVsN3dvWXBYRzVIZXVYVi1nLUNUXzZzV2NQRjExbjBSdTMwZUhrWHo1VlMwNWJsVC1pUGpJdm5vOE5XeTRpSDlfMFFlS0thb0stUTltdDV6aW11QmlMUThVaEFvZHp6S0E?oc=5"
+      ],
+      [
+        "Vírus de Marburg: o que dizem os especialistas?",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTUZ2Vk1DeDBNWDY1eDBiWUNyYU11ODYtZm5OcEc1RjBOSkVwUFpFUmFXekNzMnpLbFVpdjJiczVNaGhyN1hNM3F6Z3h4SjY2VXVtcExCTEhLcjFrRS00c2tsa3RSUWx2eDVLaEpmSnBiS3d4dnJRRGNsUFFjTU8waXRkU1lHdkxZckc1U3hrWExZTFE3U3FYRFFwQnpFeEU5UTVUZQ?oc=5"
+      ],
+      [
+        "OMS auxilia Guiné após detectar primeiro foco do vírus de Marburg",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkhLYk9ncG9qdHV3eENTc1lQWjBaUFptSEJmUUctMURmZ2lVN002Z0RYcVhvcll2N2tpcWV6V0dHeXpNaFp3cS1OeHhHdmlqdEw4UHN6NzhlS0ZsVDlkbE1seXdTT2RJdWx1VWNQSnJHcFd5QmxTUFB4TTFuVk5UMHJxUzhhZXR3T2UySFVYZjlLZ2hGVno2b1dQRVB2SXhHU011T1NHSkVvNVdtdkdvMzlDbmZSZw?oc=5"
+      ],
+      [
+        "RedeVírus MCTI anuncia grupo de pesquisas sobre Vírus Marburg — Ministério da Ciência, Tecnologia e Inovação",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUzJTRTAzd2xGYkJNN2JwSHhhY1RRNFdVMXdCcHFzUjdSbG1KWERjMTYzX0hmQWhCanlPbFhadTNXOEx6VWtvcEYwdlpJX0hLdjB4RHN6ZkhhQ3NCMExpVEI1alV5ZG1UYUJyZ0V0NWZGdUZzS3gxZjFiSWphMVpONkNndW51WjZIRVlDamxHeVBCLU03SHQwUDRlYlNsM0tCVDZmTWY5U21zNDJvUHVYSjZRVnIwQ0ZIdWg4UXM3ZC1TMjA?oc=5"
+      ]
+    ]
+  },
+  "dengue": {
+    "timestamp": "2026-10-29T21:46:33.520587",
+    "items": [
+      [
+        "Três milhões de jovens precisam tomar a segunda dose da vacina contra a dengue",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWlqcnY2bmhpc0Z4ZzljVnBwVHpJd2Zid2tPTlNNS2dOV0NiMjhTVzhmVV9nZmJ3Z25pTEUwTmMxMWxyam9teWJTdllVZXgxVVJsTUtfV3dYVmMwaXIxM0NDalRhVmJmclJIT09JaGF1UWctOGYwZHBfM0lNVUlJOTZsam9OaDJ0X3hqVzJrMXlYeFVidHZuYVlPdEdRdEI3bWd5TEFCN282X2FFUkpSMnEzODd2VE1pS2h3eDlNaDRSbFVTblZDSHV2bVJFdw?oc=5"
+      ],
+      [
+        "Fenômeno climático pode contribuir para o aumento de casos de dengue",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWxzMkN1cHAxRExrM281amxmTm1OTmFxUnZhdElCd2VqeXJvNTRITVZIVk9qVkJzd0hGTndBQ0VmMG11Sm5DeC04VXM3VUZIeGZSNjZzNVpoSUR2MTZGa2RUZXh4S1FBUTJYVHcwY2dZQkgzUnFSMWNuUmp6eXpDOV82WWhQUDlPYldwU190WHJQNlh0TlhFdkZGT0ZtbTk0dkF4NDBDT1FxcGZUa21RazVyc2NUTDF3YXJNczAyWExuQ2FfdTgxME1fQkFTSWI1REHSAeABQVVfeXFMTm5WYTZuVHhkX0x1QW9pcmpHSnIyN003OWJmX2NTVnVtQ1JXcFZmSTltUWJ0eV83Y2lUdE5YakVTM1FOTlA4MzF6Nkp0Y1FVOVZ5U1U2a1VVYjZmVWE0NDdaWUJKYWg2U3FGTlhpekZnUGNNQlp0bGRVNlZySVotYk9FWHNJc3NLdEtKQ1NPcEt6NXQ0QXRHX0ZSR3M5N0MzV1RDaVZGNDUxdGxmY0xZdzVEMHdiTzJWNzNTM3gwX3pQU1k3bWxmd1pLMEJHU0xpQ2hLZUVPaXgtN2dJeFFlLVc?oc=5"
+      ],
+      [
+        "Pernambuco confirma sétima morte por dengue e registra alta de 31,2% nas notificações",
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxOM1N2dWFCSVBXeTMwSkxCanl3MUVBOU9vMFB0Y211ZWxjanU2bENkcnd0MEJCTkZTZFVtMXFOdGkzWmRoRHNObVM1Sm9kY3JJM0sxV29YZ3Y0NS1uN1gtdVRxNVdrN3phTmdoYUxucF9naGxBU2J4aV82Y0hKZFNtRlFWNGxLeExXaEd0VkRCc3BsUmhBb1VveVpPM0hTdmxiV1dkRUR3R2pYS0p4OUZiNThFVjRQSEN4VkpiS2FhWmpKQmtFeUlVOWRPNk0wR0poY3RoWGYzQVR5Qk4tc3N5UjJRcGdfc3RzVjZSeF9sVkJIcXVqaWNHQThFVmZiSnhJVHRNQQ?oc=5"
+      ],
+      [
+        "Dengue no DF: 45 mil jovens estão com a esquema vacinal incompleto",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZWxuNS15bXlVd25rYjR5QmpyZHhyRndWdnhaYnY4enM5el8zTnB2bVVOS1lWZWkyam9kYklfUFpaNFVnQUUxckJESkc4M2RKcUtUQ2tBNl9wcjhNRGdrMHNMaVJQa1UyQXRELU1ob0JZcWJsajRodXBPZVZYMkwtWmxwZGpFdDkxbURGU1Z4RTM4WE9BT0Y3eF9CREUzMnBqb0ZXc2tJMkpobnlGVmc?oc=5"
+      ],
+      [
+        "Vacinação contra dengue: milhões ainda não completaram o esquema",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa190eWVxeUlaT0ZRdWJmZ3Uwak1ncnNNbG5MQVpHeXVjZ1p1V1Z1RF8xX0VuNHZYZndxampUZ3J2OG1WeUxCRS1NcmZsMUtmUHVmSzY1aGpXOElqbUN1T0dfanJsNVdnNEJvVDVJaDBoVHZrV21qZ1JwNFZTRTgzaUxTajVub3ZPQ1RGYnV6S2VYR2ptMUZuMkdUYWVNSmI3ZGdUUDB4eEppS0ttVklyYjRLUGRCZVU?oc=5"
+      ],
+      [
+        "Procon-LD alerta para o golpe do falso aluguel ao planejar as férias de fim de ano",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WdGdPaEFyc19qd2RoZkFXZl9nQ1FDYTJlU015NFo4LXNmdmp1N2JLejhtczV4b0tkcVhjMFpuUER0N1dJZGRmS0NiQ3FkNGxSLTdZ0gFYQVVfeXFMT2xSX1dMeHpQa1Y2RDlqUVhKVUpQWmdiNl9ual9BNkJkOXlsb3NnQnBfR3FnV29mSTJYZDZMX3NxTmRveEZoOGhQZ21ncEdmelp4ZkJoMG1YUQ?oc=5"
+      ],
+      [
+        "Casos de dengue na Flórida quase dobram em um mês, diz órgão dos EUA",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcjV2S05BbFl6U1dIbVVWeWJ2NXNRTXVjeFJmNmkyUlBGQ0t1S2ZRMFBpZGVoZ3FFNmxmc2NNQ3RjQ3U0dEdfS2lUVFBGdEp3LUI5c3N3YXFQYURGRHJTMGZoR1ZtbUtTMVVEYjQxcDBEaW1pVGhjUUtaUEVOZG1obDk5MmZVRXFLcW10YlhhSnZPbFhJUGtpekZ5TzRnVVQ5dmxTamYzZHZ2VEV4REpqSEgzZ3d3TVYtYlM2anBUdnExUGZoZVZ0TzJQd1M?oc=5"
+      ],
+      [
+        "Vacinação contra dengue: 3 milhões de adolescentes estão com esquema incompleto",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQzl4SEY5a054dXpPTGNfdHZpUjd4RUJhOVVvR1VzSEZDSHRlV25nMHQzQkdKUWZNQmh2U3F1UWNYaUJ6UV9tV19POENMN25JMGRCdy0zNC0ycHBTNU41TU92Ujk5RW9nR0l1ODBXaUxnUmR0bzlCRElIS2RFSDFMa096ckthMkJBMXpWd0daUDBYcEtfNGVGbnhvTDBQTnM0ckk0Ykpn?oc=5"
+      ],
+      [
+        "Pinhais inicia mapeamento do mosquito da dengue",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVkRESmlfLURvVHBYZi1YSUlYbFVrc0k2bzZEZFdzU1Z4MGlxNk5yRmpEWWNPM01lRTZNWDB4a1ZZWmdPVDlrWkFLVkNLMzVGQlhObjBkaWRKdDBjLWVlQW9SNGhpY2kzMmFMamxqbEVOUzRSMm9SWHFkZXVScXViZGlpYWs3eXlDeklETm1KVVA0TXBGUFlWUFRBeWhWYl9taWtxTEdYRDJ6LTd2Uk9TUNIBtgFBVV95cUxOM2ZkTVlDVThWNl9VazVmNHBubk1WMlJHa0FLY3VfVFJpS3FNbV8yZGVLRjYyMWxpMGItTDZMNnN3b1p1M0ZsLXpaQnJzUlRkcEduUU9faFh5ZU9hNGhRbWlhUUVGdkpQWXpRYmRUaEgxTGNpQkFwSkpXLUs2TWpMeUVEVkFxeEFhdXc5ZTR2NFJCUGFQTUZMTzkwS0NVU3paQVF6MVByS2w4LXNZWlBQRURxa0lrdw?oc=5"
+      ],
+      [
+        "Cidades da Baixada Santista antecipam ações contra dengue e temporais por causa do El Niño",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR25ybGdFakhiVTlmRHl6OFFsSWw4d0Y4R1lwcms0QlhZVDBjdDZDc3hkeDc5NllGbEFaMW1GNG42eEtHa3FRQWZ1d1Q3N3Y1Tk8xb2F6ZVRocG1kTTlFVnJzbUlWNlFIb29OUnF4cEIzamtnU19jaTR3NzkySG5IdG1zNWttbWcxX2RsdGZTVGxaUnUyNlQweXBIYl9pRjljRU1FUzA2RVRiODkxT0FpOU55UzIyOXVSVDljU3pVY1NfZTU4Z1daQtIBzgFBVV95cUxNRDF3TG9PekdCalhtQjM4eTZBM2tqWFVnSzM5NEllUDRNUEtkQldGc0szOEJoNnRXVWZQd0hTdEd4Z1NuNnNUemV0bnRhRUVxU3FhTTRMWGh1VkNhSEttSHVRcE53TlVteEJnQVZ5ci1YRDhVRURQRWh1a1lNdV9QTXVrekpwZDdmSWFZM2E0SUVrX1A2cjBacXBaWi1Ha2lsMERIbVNGMWR6eFBfTU13eWlmbUFUVW9GaGhtb3dQeHdpLW56dTdRVFZiNXdZZw?oc=5"
+      ]
+    ]
+  },
+  "nuclear": {
+    "timestamp": "2026-10-29T21:42:37.910980",
+    "items": [
+      [
+        "Rússia testa míssil nuclear intercontinental disparado por submarino; VÍDEO",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGc1ZDFpVkR3X0lhZGVqeGsyaGF4MTdLdmdWd205czNfdm10blRTZ21Nbm5rWWRSMXVUaWVBX3RKLWZwYXVJRzdyQmZMNFpKVFVTa3E3bXZFMTBva2ZYb0dJM21HVWlNSDFMbG5iNjgwb21nTk44MWwxOWFaWHhSSm1WaXBWUFlYSzV3WkFoVGtnQlVib2NRZWNRVDVZQmpCWkkzbUhrandUbXZIOGNOaXJR0gHAAUFVX3lxTE12bHZYSFVCNWZQV2NLRXNDcEZ1ODhqVVZGYmpXSmVLQTloLWRUZElwVl85Ym5ENVhkZ1U3SDBuRk9jS2JybkVWeEk1RUtmMTRLN0R4U3pDUHVFOVZVYnIzcm1ndl9xOVlkUHZVa0Z0T1AweWN5Y05lTEE1R1c5ZVZsemVIalhjMDBUYm9pdUZNVUdlc1F2YnpzQU1YbDhhVm52ZlJnc3BKQUlxT3ZuUkJqTjhkM0h0bTJEbGdYM2lrUQ?oc=5"
+      ],
+      [
+        "Vídeo: Rússia testa míssil nuclear disparado por submarino, com alcance de 8.000 km",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxObzF1Z1dsUVJjNGhOb1BOVnp0NFB2WjJRT1NfVFd0aFh6YS1tYTNqaVVieDktaUhNc3ZGWHlwTUVKWlpfc3piXzI1QkljdUFwRHZHVUJncjdidnRUT2w2Zm90UFNlSklHd3BCTXZuOHB1aU1VbTBseVJVUEMwTE9BVlQ5M1Q2RW11dXpqSkVYWDNxQ0NjSFZYZWdZMXhucXBIdzRWSjZKdkYzbGVBVHRNOS1SX1M?oc=5"
+      ],
+      [
+        "Rússia testa míssil nuclear intercontinental lançado por submarino",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVUhTcHZrQ3dNZ056dlA5UWdFeFd4M0VUYmpBWTRnUVAydDZucTVTRU1xMldpMFJ2QW0yRWs2TVR4UDNuVEtObEtPUlY2YU9lWEFYSG43SFZpNGdJbTJhTjFLT3JTci1ydDhRRFdmcDRjTzhUN1Y2OEpmUFJUZGJSMEtBcE80WFhQaVVGLTE1RElmTFpIdG5kZnpESkY3OU13?oc=5"
+      ],
+      [
+        "Míssil russo com capacidade nuclear percorre 8,3 mil km após lançamento de submarino; veja teste",
+        "https://news.google.com/rss/articles/CBMilgJBVV95cUxNWUZCTlBkNmMwaXk5eGZkQW82aTctYzdPMjlRUm5jNFpKOERBdjRDaUU0SDlUaFoyTUhNUXpmaTZhZVpzemlJTzR4eDZjemtlYzFaYzRvUzJKZDEzTHlCTWJ6S25TeHowYWJ1NDNnT0xFMFRjX0tnTGRRLVJWUHR4elg2ek9YTElVRmFHcHNmdHNocDJHbkFsdzN4ZENXbVhneXUtWjVrMktsM0Y4QUJtdGRidGlKNzlPNHoxeHlKNXdLaVJBbDVlZWVQUjdDRVFzSXV6SlFmOU85Q1BYY0R4bEtwZUxqbGJxbnhFQVRlRXViMlpJSnVPVTZQNHdOOXlNMlBQVTlSRFAxa25sTE0wMWJUVm9KQQ?oc=5"
+      ],
+      [
+        "Incêndio em complexo nuclear deixa ferido e restringe voos nos EUA",
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTDIxNFBWOVdUZXZlYV9KU2pzT1kwSWlYYXNiVUJxdjctd0NuREtSQUNrX1JHRU9CR2pLVFp2azVOVVBxTW1SRVEzV1FkYUs1ZF9TejZwVUV4QU96X3JjTGt4N0Y3MGYtMGMtYUR4ZmFoQ0RRam5BdkdYSE5JWUtnU0s5a2M2MXpQYm5nOXdpQXBzUEc4Z1V3X1R4bWdNMHktd1JZNHFsdDRSXzFibGlJRXJTYkpMbFhjUWhIMGNJZnJtamhvNTRubFB6UllGb1NSM0FYcDdMVFY?oc=5"
+      ],
+      [
+        "Como funcionam as usinas nucleares de fusão e como podem revolucionar a indústria energética",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbUtkVTZMU0pKODZYTlhIaFpwWXRBRTNoWTExdWhacFZiN1RsT1JvOE9sZERyVWs2SS1FQmRLblFkN1VpaXdMS3NGc2UzUWFmSDBLd1JpQkViR1lOaGgtbFk2ZGZNZVZkT3AxbEtrR0RLUUpxVkJqY04zbHBvVE9lT2diLWI3c1d2cnFOUm5DX2NPNjlQb3JlZ0stNGhJUHYzcEw0NmNIRVNQbW1FRERoQ0NLZ3JKZVNSaGlPMEp0RzRuaDU2MVE?oc=5"
+      ],
+      [
+        "Incêndio em complexo nuclear dos EUA provoca emergência na Carolina do Sul",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUXktTmIwZFFXcy1qd2NEaUo5ZzdYLWRIc2lzZlpYSHMzZjBSZ3VSTWY0RzVrUEYtU2tsRXlyWGdCbXRBa1Q4Ny1UTy0tZ0o4SFRNYzl2SHdMTWJ0T3lQS3hhTzEzeUFrNVlZMnlxRC1QTTQyZkR2dHZzaXc4OG1SVExIaXdabWswSGkzcWFIUG5tNnZFZWhHbVY3TERsUU5ueEQwOEpEYzFUc2l5ZE5pS1EzcV9RcmtKdWc?oc=5"
+      ],
+      [
+        "Exército capacita novos especialistas em Defesa Química, Biológica, Radiológica e Nuclear",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ0ZRTGhFUnhUM1dJOUFiUEptOGdtb3ZyR0o5cWNaQjJyZmhnQkJDdFhtT2RsdXAydTVMM19zRVJJb1hfbEs1YmF0Y204M0NyZGc4djJCQVFzQklQUk9kM05vbDF5dGh0TWJrbm95NUR5RGJFcW1XdWdra1lZb1NWamdDTkdYSTR0bWMydzJKaEd6QURHNmc5RTJmYy1haUREOURZdzliNm1KeXB2ZHpsQ1htZzlwVUYtc3haVTEweXd5UQ?oc=5"
+      ],
+      [
+        "Brasil precisará de energia nuclear para data centers, diz setor",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeFJiUWtub2hNQUVxdzFSclZzbXY4czU5TzBIS3VyOXE2bXVBQWlpNTNIS3ZYZTdLZlZJOWFJYkNIVE9MalZrdkhEQnQwTzZ4T2hwNC1UMmNaMDdEM1g1YlUtSmQyUTVKT05feHlVcU1SQlY2cjhENjh1SjVkUl83UURvX3dnLXBIUWMwOHNxM0Q5ZFJycFZHNmVWaDJfS1VyanNaaVZ3?oc=5"
+      ],
+      [
+        "Carlo Rovelli: “Por medo de uma bomba atómica nas mãos de Hitler, entrámos na era nuclear”",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTFTbThnZzZDQnFUeHRmSHZlOXBtV0JDYmRTWWRFU05kRm9rWFo0UlZ4akJzaFYxcW5sNlFrRjlrdjREZDQ2T3JYenpsa0Y1Vy1mQVQyS3RheVpPWk9ueDd4SVprdzlMY25wZzRneVppVEsyY0xrYjBhZ1MyMFdfQjYzOGhWTjN6eDhxT19hYXJrMElCanFkOXBPZHhsVUluRnJoU1NWd1cwQWNZMnZzMGJRTlBwQQ?oc=5"
+      ]
+    ]
+  }
+}

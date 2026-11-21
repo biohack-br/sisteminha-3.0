@@ -1,0 +1,208 @@
+{
+    "data": "2026-11-03 09:48:01",
+    "ameacas": [
+        {
+            "id": "escassez-motoristas-eleva-fretes",
+            "categoria": "Logística",
+            "rotulo": "Falta de motoristas eleva fretes e atrasa cargas",
+            "peso": 9,
+            "justificativa": "Notícias indicam que a escassez de motoristas se agrava, afetando a maior parte das empresas do transporte rodoviário. Isso tende a elevar fretes e desorganizar entregas, pressionando abastecimento de produtos perecíveis e granel.",
+            "alvos": [
+                "Frango Resfriado",
+                "Frango Vivo",
+                "Ovos",
+                "Leite",
+                "Arroz",
+                "Milho",
+                "Soja"
+            ],
+            "fonte": "Escassez de motoristas: Mundo Logística\/CNN Brasil (afeta 88% das empresas) + risco de elevação de fretes."
+        },
+        {
+            "id": "diesel-escassez-ameaça-plantio-rs",
+            "categoria": "Logística",
+            "rotulo": "Escassez de diesel ameaça plantio no RS",
+            "peso": 10,
+            "justificativa": "Há notícia de que falta de diesel já ameaça o plantio no Rio Grande do Sul. Com o diesel impactando mecanização e escoamento, o risco de ruptura na oferta regional é alto e imediato.",
+            "alvos": [
+                "Trigo",
+                "Arroz",
+                "Milho",
+                "Soja"
+            ],
+            "fonte": "Escassez de diesel: GZH\/Rádio Acústica FM (diesel chega a postos e agro pede priorização da Refap no RS)."
+        },
+        {
+            "id": "petróleo-mais-caro-pressão-combustíveis",
+            "categoria": "Infraestrutura",
+            "rotulo": "Petróleo mais caro pressiona combustíveis",
+            "peso": 8,
+            "justificativa": "O petróleo ficou 11% mais caro em reais após eleição, pressionando combustíveis. Isso pode reduzir disponibilidade\/elevar custo logístico e de produção, afetando preços e janelas de abastecimento.",
+            "alvos": [
+                "Arroz",
+                "Milho",
+                "Soja",
+                "Trigo",
+                "Leite"
+            ],
+            "fonte": "Petróleo e combustíveis: VEJA (petróleo +11% em reais) e O GLOBO (impacto\/medidas para segurar preços)."
+        },
+        {
+            "id": "greve-caminhoneiros-interrupcoes-rodovias",
+            "categoria": "Logística",
+            "rotulo": "Greves de caminhoneiros podem interromper rodovias",
+            "peso": 9,
+            "justificativa": "Há mobilizações e histórico recente de liberação\/atos que podem voltar a impactar rodovias. Em cadeias dependentes de estrada, isso aumenta risco de desabastecimento por atraso e ruptura de estoque.",
+            "alvos": [
+                "Frango Resfriado",
+                "Frango Vivo",
+                "Ovos",
+                "Leite",
+                "Feijão Carioca",
+                "Feijão Preto"
+            ],
+            "fonte": "Greve de caminhoneiros: InfoMoney\/G1\/Senado\/Gazeta do Povo (rodovias liberadas após convocação)."
+        },
+        {
+            "id": "crise-guerra-pressiona-preços-e-fome-global",
+            "categoria": "Geopolítica",
+            "rotulo": "Guerra pressiona preços e amplia risco de fome",
+            "peso": 8,
+            "justificativa": "Notícias apontam guerra elevando preços de alimentos e ampliando fome global, com risco de escassez. Isso tende a afetar demanda externa e preços internos, aumentando vulnerabilidade de abastecimento.",
+            "alvos": [
+                "Trigo",
+                "Arroz",
+                "Soja",
+                "Milho",
+                "Café"
+            ],
+            "fonte": "Guerra e fome: Extra Classe\/Sul 21\/Terra (pressão em preços e risco de guerras\/escassez)."
+        },
+        {
+            "id": "guerra-irao-risco-de-escassez-de-alimentos",
+            "categoria": "Geopolítica",
+            "rotulo": "Risco de escalada no Irã pode afetar oferta",
+            "peso": 8,
+            "justificativa": "Há preparação para cenário de pior caso com possível escassez de alimentos e sinais de escalada militar. Interrupções e prêmios de risco podem repercutir em commodities e logística.",
+            "alvos": [
+                "Trigo",
+                "Arroz",
+                "Milho",
+                "Óleo e derivados indiretos (via soja\/soja em grão)"
+            ],
+            "fonte": "Guerra no Irã: BBC (piora\/cenário de escassez) + R7\/O Tempo\/Valor Econômico (ameaça de escalada)."
+        },
+        {
+            "id": "seca-el-nino-afeta-lavouras",
+            "categoria": "Clima",
+            "rotulo": "Seca e El Niño ameaçam lavouras e oferta",
+            "peso": 9,
+            "justificativa": "Notícia indica seca ameaçando lavouras em quase 200 municípios e alerta de El Niño para impacto em safra 2026\/27. Quedas de produção tendem a gerar desabastecimento e volatilidade em grãos e culturas alimentares.",
+            "alvos": [
+                "Arroz",
+                "Milho",
+                "Feijão Carioca",
+                "Feijão Preto",
+                "Mandioca"
+            ],
+            "fonte": "Seca: Vitória News (quase 200 municípios) + El Niño: BPMoney."
+        },
+        {
+            "id": "racionamento-agua-el-nino-risco-producao",
+            "categoria": "Infraestrutura",
+            "rotulo": "Racionamento de água por El Niño eleva risco produtivo",
+            "peso": 7,
+            "justificativa": "Há registro de racionamento de água com rodízio após El Niño causar seca em rio e outras crises de água. Restrições podem afetar processamento, produção e cadeia de abastecimento em regiões abastecidas por rios afetados.",
+            "alvos": [
+                "Leite",
+                "Tilápia",
+                "Ovos",
+                "Frango Resfriado",
+                "Mandioca"
+            ],
+            "fonte": "Crise água: Portal Tempo Novo\/MetSul\/ Terra\/soubrasilia.com (racionamento e falta d’água)."
+        },
+        {
+            "id": "queda-de-estoques-ovos-cotacao-queda",
+            "categoria": "Abastecimento",
+            "rotulo": "Queda forte em ovos indica pressão de oferta",
+            "peso": 7,
+            "justificativa": "A cotação de Ovos em SP caiu -6,44% na variação recente, sinalizando mudança rápida na disponibilidade\/condições de mercado. Isso pode refletir gargalos na cadeia (produção, insumos ou escoamento) com efeito em abastecimento.",
+            "alvos": [
+                "Ovos"
+            ],
+            "fonte": "Variação: Ovos (São Paulo) -6,44%."
+        },
+        {
+            "id": "arroz-cotacao-avança-risco-de-volatilidade",
+            "categoria": "Abastecimento",
+            "rotulo": "Arroz com leve alta\/queda menor eleva volatilidade",
+            "peso": 5,
+            "justificativa": "Arroz (RS\/IRGA) variou -0,24%, indicando estabilidade relativa, mas com movimento recente. Em ambiente de choques (seca\/guerra\/logística), mesmo variações pequenas podem antecipar volatilidade de curto prazo.",
+            "alvos": [
+                "Arroz"
+            ],
+            "fonte": "Variação: Arroz (RS\/IRGA) -0,24% + contexto de choques (seca\/guerra\/logística)."
+        },
+        {
+            "id": "fertilizantes-escassez-e-alta-de-preços",
+            "categoria": "Insumos",
+            "rotulo": "Escassez de fertilizantes pode derrubar safras",
+            "peso": 9,
+            "justificativa": "Há notícias de possível escassez de fertilizantes para safra e queda de consumo projetada, além de crise global de enxofre afetando produção no Brasil. Isso aumenta risco de redução de produtividade e desabastecimento na próxima janela agrícola.",
+            "alvos": [
+                "Milho",
+                "Soja",
+                "Trigo",
+                "Arroz",
+                "Feijão Carioca",
+                "Feijão Preto"
+            ],
+            "fonte": "Fertilizantes: CNN Brasil (escassez), G1 (crise de enxofre) + ONU alerta (escassez e alta de preços) e queda de consumo projetada."
+        },
+        {
+            "id": "clima-europa-onda-calor-efeito-global-commodities",
+            "categoria": "Clima",
+            "rotulo": "Onda de calor severa na Europa eleva riscos globais",
+            "peso": 6,
+            "justificativa": "Notícias descrevem ondas de calor intensas e secas severas na Europa, com impactos em infraestrutura (cancelamentos) e risco de incêndios. Isso pode ampliar pressão em preços e disponibilidade global, refletindo em commodities importadas\/associadas ao mercado internacional.",
+            "alvos": [
+                "Trigo",
+                "Café",
+                "Arroz",
+                "Milho"
+            ],
+            "fonte": "Clima: G1\/Forbes\/CNN\/Folha (onda de calor e seca na Europa)."
+        },
+        {
+            "id": "doencas-animais-transfronteiricas-risco-suino-aviario",
+            "categoria": "Abastecimento",
+            "rotulo": "Risco de doenças animais pode reduzir oferta",
+            "peso": 8,
+            "justificativa": "FAO alerta riscos crescentes de doenças transfronteiriças e há notícias de surtos (gripe aviária, peste suína africana\/risco). Isso pode gerar abates, restrições sanitárias e ruptura de oferta em curto prazo.",
+            "alvos": [
+                "Frango Resfriado",
+                "Frango Vivo",
+                "Ovos",
+                "Suíno Vivo"
+            ],
+            "fonte": "Doenças animais: UN News\/Embrapa\/Agrolink\/band.com.br (risco de transfronteiriças, gripe aviária e peste suína)."
+        },
+        {
+            "id": "cargas-perigosas-app-falta-controle",
+            "categoria": "Infraestrutura",
+            "rotulo": "Falta de controle em cargas perigosas aumenta risco",
+            "peso": 4,
+            "justificativa": "Notícia aponta preocupação com falta de controle apesar da entrada de cargas perigosas em era de aplicativos. Isso pode elevar risco operacional e de interrupções regulatórias\/segurança, afetando disponibilidade de insumos e logística especializada.",
+            "alvos": [
+                "Insumos agrícolas (via logística especializada)",
+                "Combustíveis e derivados indiretos",
+                "Produtos refrigerados (dependentes de infraestrutura)"
+            ],
+            "fonte": "Cadeia\/segurança: Âncora 1 (cargas perigosas e falta de controle)."
+        }
+    ],
+    "texto": "# Clima\n[ ] El Niño e secas elevam risco de quebra e menor oferta de grãos e cana\n[ ] Geadas e monções com falhas podem reduzir produção e ampliar volatilidade de preços\n[ ] Onda de calor global aumenta custos e risco de disparada no mercado internacional\n\n# Logística\n[ ] Escassez de motoristas e caminhoneiros eleva fretes e pode travar entregas\n[ ] Greve de caminhoneiros e bloqueios podem interromper escoamento de insumos e alimentos\n[ ] Restrições no transporte e custos de combustíveis podem atrasar abastecimento no campo\n\n# Insumos\n[ ] Crise global de enxofre pressiona produção de fertilizantes e eleva risco de falta\n[ ] Falta de fosfatados no Brasil pode reduzir plantio e afetar produtividade\n[ ] Fertilizantes podem cair no consumo, reduzindo disponibilidade para safras futuras\n\n# Geopolítica\n[ ] Guerra no Irã e escalada militar pressionam preços globais e elevam risco de escassez\n[ ] Conflitos elevam incerteza em suprimentos internacionais de alimentos\n[ ] Tensão geopolítica aumenta volatilidade cambial e custo de importações essenciais\n\n# Abastecimento\n[ ] Crise alimentar global pode contaminar o mercado interno e reduzir disponibilidade relativa\n[ ] Restrições de diesel no RS dificultam operações no campo e podem afetar colheitas\n[ ] Influenza aviária e surtos animais podem reduzir oferta de carne e ovos\n\n# Infraestrutura\n[ ] Racionamento de água por seca limita irrigação, abate e processamento agroindustrial\n[ ] Simulações de cheias e fechamento de comportas indicam risco a portos e rotas de exportação\n[ ] Inundação e eventos climáticos extremos podem afetar armazenamento e transporte a granel",
+    "data_geracao": "2026-11-03",
+    "checks": []
+}

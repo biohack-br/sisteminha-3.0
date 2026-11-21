@@ -1,0 +1,386 @@
+{
+    "data": "2026-11-03",
+    "analise": {
+        "comprar": [
+            {
+                "produto": "Algodão",
+                "motivo": "Indicador CEPEA está estável e com leve alta (+0.21%), sugerindo menor deterioração de preço em meio a volatilidade geral. Com dólar acima de R$ 5,00 e petróleo acima de USD 100, custos e câmbio tendem a manter suporte para commodities transacionáveis."
+            },
+            {
+                "produto": "Milho",
+                "motivo": "Alta marginal (+0.08%) num cenário de risco alto, indicando resiliência relativa. Apesar das ameaças de clima\/Logística e diesel no RS, a leitura de curto prazo nas cotações ainda não mostra colapso imediato."
+            },
+            {
+                "produto": "Café",
+                "motivo": "Arábica e Robusta com alta de +0.48% vs. snapshot, sinalizando sustentação. Em ambiente de crise alimentar e risco geopolítico, o café tende a receber prêmio por incerteza, especialmente com petróleo e câmbio pressionados."
+            },
+            {
+                "produto": "Açúcar Cristal",
+                "motivo": "Apesar de queda leve (-1.25%), o item aparece como alvo de acompanhamento e pode ser oportunidade de entrada gradual se o viés do setor (etanol\/açúcar) continuar suportado por custo energético e câmbio. A variação recente ainda está dentro de movimentos controlados."
+            }
+        ],
+        "alerta": [
+            {
+                "produto": "Arroz",
+                "motivo": "Queda leve (-0.24%) ocorre justamente com ameaças topadas para o setor (seca\/El Niño e logística\/diesel no RS). Com risco de crise alimentar e geopolítica, o problema pode migrar de preço para disponibilidade\/gargalos."
+            },
+            {
+                "produto": "Feijão",
+                "motivo": "Carioca e Preto recuam (-1.42% cada), enquanto clima (seca\/El Niño) e insumos (fertilizantes) seguem como ameaças de alto peso. Mesmo com queda de preço no curto prazo, o risco de reversão por oferta é elevado."
+            },
+            {
+                "produto": "Ovos",
+                "motivo": "Queda relevante (-6.44%) num ambiente de logística crítica (falta de motoristas) aumenta chance de volatilidade: o preço pode refletir alívio pontual, mas o risco operacional permanece alto. Use como sinal de timing, não como segurança."
+            },
+            {
+                "produto": "Trigo",
+                "motivo": "Queda (-0.75%) com simultânea ameaça geopolítica e de escalada (Irã) e risco logístico\/energético (diesel e combustíveis). A leitura dominante é de risco de prêmio futuro mesmo com recuo recente."
+            }
+        ],
+        "leitura_risco": "Com score 59.4\/100, o ambiente é de RISCO ALTO, dominado por ameaças de logística (diesel\/motoristas\/greves) e clima (seca\/El Niño) com peso médio elevado. Mesmo onde há estabilidade ou leves altas, a volatilidade recente (+13.8 na soma de variações relevantes) e o pano de fundo macro (dólar, gasolina e petróleo acima de patamares de referência) aumentam a chance de choques de curto prazo. Use posições com margem e planos de contingência (prazo\/hedge\/logística), evitando assumir que quedas recentes viram tendência.",
+        "contexto_noticias": "As notícias reforçam pressão sistêmica: crise alimentar e risco de escalada (incluindo Irã) tendem a sustentar prêmios em grãos como trigo e arroz, ainda que a cotação tenha recuado. Paralelamente, a combinação de restrição de diesel no RS e piora do transporte por falta de motoristas\/greves conecta diretamente com os alvos de risco listados para arroz, trigo, milho e proteínas (frango\/ovos).",
+        "observacao": "O dataset de cotações não traz variações percentuais para todos os itens (e alguns têm taxa 0%), então a leitura é limitada ao que está disponível nas variações fornecidas; sem mais métricas (estoques, câmbio\/juros em detalhe e spreads), a recomendação é de orientação tática e não substitui cálculo de hedge\/viabilidade."
+    },
+    "meta": {
+        "total_cotacoes": 30,
+        "comparado_com": "2026-11-02",
+        "gerado_em": "2026-11-03T09:47:23-05:00",
+        "risco": {
+            "score": 59.39999999999999857891452847979962825775146484375,
+            "nivel": "ALTO",
+            "fatores": [
+                "Volatilidade de cotações: +13.8 (soma |Δ|≥2%: 11.5%)",
+                "Ameaças top-5 (peso médio 9.2): +27.6",
+                "Dólar acima de R$ 5,00: +5",
+                "Gasolina acima de R$ 6,00: +5",
+                "Petróleo acima de USD 100: +5",
+                "Quedas ≥3% em 1 produto(s): +3"
+            ]
+        },
+        "variacoes": [
+            {
+                "produto": "Ovos (São Paulo)",
+                "atual": "121.36",
+                "antes": "129.72",
+                "var_pct": -6.44000000000000039079850466805510222911834716796875
+            },
+            {
+                "produto": "Etanol Anidro (Anidro SP)",
+                "atual": "2.81",
+                "antes": "2.74",
+                "var_pct": 2.54999999999999982236431605997495353221893310546875
+            },
+            {
+                "produto": "Etanol Hidratado (Hidratado SP)",
+                "atual": "2.81",
+                "antes": "2.74",
+                "var_pct": 2.54999999999999982236431605997495353221893310546875
+            },
+            {
+                "produto": "Bezerro (São Paulo)",
+                "atual": "200.47",
+                "antes": "196.79",
+                "var_pct": 1.87000000000000010658141036401502788066864013671875
+            },
+            {
+                "produto": "Açúcar Interno AL (Mercado Interno AL)",
+                "atual": "128.98",
+                "antes": "126.62",
+                "var_pct": 1.8600000000000000976996261670137755572795867919921875
+            },
+            {
+                "produto": "Feijão Carioca (São Paulo)",
+                "atual": "309.54",
+                "antes": "314",
+                "var_pct": -1.4199999999999999289457264239899814128875732421875
+            },
+            {
+                "produto": "Feijão Preto (São Paulo)",
+                "atual": "309.54",
+                "antes": "314",
+                "var_pct": -1.4199999999999999289457264239899814128875732421875
+            },
+            {
+                "produto": "Tilápia (Triâng.Mineiro\/Alto Paranaíba)",
+                "atual": "9.29",
+                "antes": "9.42",
+                "var_pct": -1.37999999999999989341858963598497211933135986328125
+            },
+            {
+                "produto": "Açúcar Cristal (Cristal SP)",
+                "atual": "128.35",
+                "antes": "129.97",
+                "var_pct": -1.25
+            },
+            {
+                "produto": "Trigo (Rio Grande do Sul)",
+                "atual": "1482.17",
+                "antes": "1493.38",
+                "var_pct": -0.75
+            },
+            {
+                "produto": "Açúcar Empacotado (Cristal Empacotado SP)",
+                "atual": "14.96",
+                "antes": "14.88",
+                "var_pct": 0.54000000000000003552713678800500929355621337890625
+            },
+            {
+                "produto": "Café Arábica (Indicador CEPEA)",
+                "atual": "1598.37",
+                "antes": "1590.72",
+                "var_pct": 0.479999999999999982236431605997495353221893310546875
+            },
+            {
+                "produto": "Café Robusta (Indicador Robusta)",
+                "atual": "1598.37",
+                "antes": "1590.72",
+                "var_pct": 0.479999999999999982236431605997495353221893310546875
+            },
+            {
+                "produto": "Mandioca (Média SP)",
+                "atual": "581.17",
+                "antes": "579.62",
+                "var_pct": 0.270000000000000017763568394002504646778106689453125
+            },
+            {
+                "produto": "Arroz (RS\/IRGA)",
+                "atual": "82.2",
+                "antes": "82.4",
+                "var_pct": -0.2399999999999999911182158029987476766109466552734375
+            },
+            {
+                "produto": "Frango Resfriado (Resfriado SP)",
+                "atual": "8.22",
+                "antes": "8.24",
+                "var_pct": -0.2399999999999999911182158029987476766109466552734375
+            },
+            {
+                "produto": "Frango Vivo (Congelado SP)",
+                "atual": "8.22",
+                "antes": "8.24",
+                "var_pct": -0.2399999999999999911182158029987476766109466552734375
+            },
+            {
+                "produto": "Algodão (Indicador CEPEA)",
+                "atual": "413.02",
+                "antes": "412.15",
+                "var_pct": 0.2099999999999999922284388276239042170345783233642578125
+            },
+            {
+                "produto": "Algodão 15 Dias (Prazo 15 dias)",
+                "atual": "413.02",
+                "antes": "412.15",
+                "var_pct": 0.2099999999999999922284388276239042170345783233642578125
+            },
+            {
+                "produto": "Algodão 30 Dias (Prazo 30 dias)",
+                "atual": "413.02",
+                "antes": "412.15",
+                "var_pct": 0.2099999999999999922284388276239042170345783233642578125
+            },
+            {
+                "produto": "Algodão 8 Dias (Prazo 8 dias)",
+                "atual": "413.02",
+                "antes": "412.15",
+                "var_pct": 0.2099999999999999922284388276239042170345783233642578125
+            },
+            {
+                "produto": "Boi Gordo (A Prazo)",
+                "atual": "394.3",
+                "antes": "393.59",
+                "var_pct": 0.179999999999999993338661852249060757458209991455078125
+            },
+            {
+                "produto": "Soja (Porto Base)",
+                "atual": "152.22",
+                "antes": "152.47",
+                "var_pct": -0.1600000000000000033306690738754696212708950042724609375
+            },
+            {
+                "produto": "Milho (ESALQ\/BM&FBovespa)",
+                "atual": "65.64",
+                "antes": "65.59",
+                "var_pct": 0.08000000000000000166533453693773481063544750213623046875
+            },
+            {
+                "produto": "Açúcar VHP (VHP Exportação)",
+                "atual": "98.59",
+                "antes": "98.59",
+                "var_pct": 0
+            },
+            {
+                "produto": "Leite (RS)",
+                "atual": "2.65",
+                "antes": "2.65",
+                "var_pct": 0
+            },
+            {
+                "produto": "Açúcar Refinado (Refinado Amorfo SP)",
+                "atual": "3.17",
+                "antes": "3.17",
+                "var_pct": 0
+            },
+            {
+                "produto": "Suíno Vivo (Carcaça SP)",
+                "atual": "10.23",
+                "antes": "10.23",
+                "var_pct": 0
+            }
+        ],
+        "indicadores": [
+            {
+                "chave": "dolar",
+                "label": "Dólar (R$)",
+                "valor": "R$ 5,50"
+            },
+            {
+                "chave": "gasolina",
+                "label": "Gasolina (R$\/L)",
+                "valor": "R$ 6,35"
+            },
+            {
+                "chave": "petroleo",
+                "label": "Petróleo Brent (USD)",
+                "valor": "USD 103.77"
+            },
+            {
+                "chave": "ouro",
+                "label": "Ouro (R$\/onça)",
+                "valor": "802,73"
+            },
+            {
+                "chave": "prata",
+                "label": "Prata (R$\/onça)",
+                "valor": "R$ 342.52"
+            },
+            {
+                "chave": "bitcoin",
+                "label": "Bitcoin (USD)",
+                "valor": "$USD 77.298"
+            },
+            {
+                "chave": "temperatura",
+                "label": "Temperatura",
+                "valor": "26ºC"
+            }
+        ],
+        "ameacas": [
+            {
+                "categoria": "Logística",
+                "rotulo": "Escassez de diesel ameaça plantio no RS",
+                "peso": 10,
+                "justificativa": "Há notícia de que falta de diesel já ameaça o plantio no Rio Grande do Sul. Com o diesel impactando mecanização e escoamento, o risco de ruptura na oferta regional é alto e imediato.",
+                "alvos": [
+                    "Trigo",
+                    "Arroz",
+                    "Milho",
+                    "Soja"
+                ]
+            },
+            {
+                "categoria": "Logística",
+                "rotulo": "Falta de motoristas eleva fretes e atrasa cargas",
+                "peso": 9,
+                "justificativa": "Notícias indicam que a escassez de motoristas se agrava, afetando a maior parte das empresas do transporte rodoviário. Isso tende a elevar fretes e desorganizar entregas, pressionando abastecimento de produtos perecíveis e granel.",
+                "alvos": [
+                    "Frango Resfriado",
+                    "Frango Vivo",
+                    "Ovos",
+                    "Leite",
+                    "Arroz",
+                    "Milho",
+                    "Soja"
+                ]
+            },
+            {
+                "categoria": "Logística",
+                "rotulo": "Greves de caminhoneiros podem interromper rodovias",
+                "peso": 9,
+                "justificativa": "Há mobilizações e histórico recente de liberação\/atos que podem voltar a impactar rodovias. Em cadeias dependentes de estrada, isso aumenta risco de desabastecimento por atraso e ruptura de estoque.",
+                "alvos": [
+                    "Frango Resfriado",
+                    "Frango Vivo",
+                    "Ovos",
+                    "Leite",
+                    "Feijão Carioca",
+                    "Feijão Preto"
+                ]
+            },
+            {
+                "categoria": "Clima",
+                "rotulo": "Seca e El Niño ameaçam lavouras e oferta",
+                "peso": 9,
+                "justificativa": "Notícia indica seca ameaçando lavouras em quase 200 municípios e alerta de El Niño para impacto em safra 2026\/27. Quedas de produção tendem a gerar desabastecimento e volatilidade em grãos e culturas alimentares.",
+                "alvos": [
+                    "Arroz",
+                    "Milho",
+                    "Feijão Carioca",
+                    "Feijão Preto",
+                    "Mandioca"
+                ]
+            },
+            {
+                "categoria": "Insumos",
+                "rotulo": "Escassez de fertilizantes pode derrubar safras",
+                "peso": 9,
+                "justificativa": "Há notícias de possível escassez de fertilizantes para safra e queda de consumo projetada, além de crise global de enxofre afetando produção no Brasil. Isso aumenta risco de redução de produtividade e desabastecimento na próxima janela agrícola.",
+                "alvos": [
+                    "Milho",
+                    "Soja",
+                    "Trigo",
+                    "Arroz",
+                    "Feijão Carioca",
+                    "Feijão Preto"
+                ]
+            },
+            {
+                "categoria": "Infraestrutura",
+                "rotulo": "Petróleo mais caro pressiona combustíveis",
+                "peso": 8,
+                "justificativa": "O petróleo ficou 11% mais caro em reais após eleição, pressionando combustíveis. Isso pode reduzir disponibilidade\/elevar custo logístico e de produção, afetando preços e janelas de abastecimento.",
+                "alvos": [
+                    "Arroz",
+                    "Milho",
+                    "Soja",
+                    "Trigo",
+                    "Leite"
+                ]
+            },
+            {
+                "categoria": "Geopolítica",
+                "rotulo": "Guerra pressiona preços e amplia risco de fome",
+                "peso": 8,
+                "justificativa": "Notícias apontam guerra elevando preços de alimentos e ampliando fome global, com risco de escassez. Isso tende a afetar demanda externa e preços internos, aumentando vulnerabilidade de abastecimento.",
+                "alvos": [
+                    "Trigo",
+                    "Arroz",
+                    "Soja",
+                    "Milho",
+                    "Café"
+                ]
+            },
+            {
+                "categoria": "Geopolítica",
+                "rotulo": "Risco de escalada no Irã pode afetar oferta",
+                "peso": 8,
+                "justificativa": "Há preparação para cenário de pior caso com possível escassez de alimentos e sinais de escalada militar. Interrupções e prêmios de risco podem repercutir em commodities e logística.",
+                "alvos": [
+                    "Trigo",
+                    "Arroz",
+                    "Milho",
+                    "Óleo e derivados indiretos (via soja\/soja em grão)"
+                ]
+            }
+        ],
+        "top_noticias": [
+            "CRISE ALIMENTAR",
+            "Clima e escassez alimentar elevam risco de guerras no mundo - G1",
+            "Guerra pressiona preço de alimentos e pode ampliar fome global - Extra Classe",
+            "Insegurança alimentar: Entre a abundância e a escassez (por Ana Carolina Faes Remboski e Maria Eduarda Faes Remboski) - Sul 21",
+            "Guerra no Irã: Reino Unido se prepara para cenário de pior caso, com possível escassez de alimentos - BBC",
+            "AGRICULTURA COLHEITAS",
+            "Quebra de Monções na Índia Eleva Risco Inflacionário Global e Ameaça Lavouras de Algodão - Forbes Brasil",
+            "Município paranaense espera 33% de quebra na safra de soja - Canal Rural"
+        ]
+    }
+}

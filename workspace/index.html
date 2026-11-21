@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cotações</title>
+  <style>
+    :root {
+      --bg-chumbo-deep: #0f1316;
+      --verde-matrix: #00ff66;
+      --verde-suave: #66ff99;
+      --verde-dim: #44aa66;
+      --vermelho: #ff6666;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Consolas', 'Courier New', monospace; }
+    body {
+      background: var(--bg-chumbo-deep);
+      color: var(--verde-matrix);
+      padding: 24px;
+      font-size: 15px;
+      line-height: 1.5;
+    }
+    .titulo {
+      color: var(--verde-suave);
+      font-weight: bold;
+      margin: 20px 0 8px;
+    }
+    .titulo:first-child { margin-top: 0; }
+    .linha { white-space: pre-wrap; }
+    .linha .nome { color: var(--verde-matrix); }
+    .linha .valor { color: var(--verde-suave); }
+    .erro { color: var(--vermelho); }
+    .loader { color: var(--verde-dim); }
+  </style>
+</head>
+<body>
+  <div id="app" class="loader">Carregando...</div>
+
+  <script>
+    const nf = new Intl.NumberFormat('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
+    function fmtValor(v) {
+      if (v === null || v === undefined || v === '') return '';
+      return nf.format(Number(v));
+    }
+
+    function criarTitulo(texto) {
+      const el = document.createElement('div');
+      el.className = 'titulo';
+      el.textContent = texto;
+      return el;
+    }
+
+    function criarLinha(nome, valor) {
+      const el = document.createElement('div');
+      el.className = 'linha';
+
+      const n = document.createElement('span');
+      n.className = 'nome';
+      n.textContent = nome;
+      el.appendChild(n);
+
+      const v = document.createElement('span');
+      v.className = 'valor';
+      v.textContent = ' ' + valor;
+      el.appendChild(v);
+
+      return el;
+    }
+
+    async function init() {
+      const app = document.getElementById('app');
+      app.className = '';
+      app.textContent = '';
+
+      let quotes = null, cot = null;
+      try {
+        const [r1, r2] = await Promise.allSettled([
+          fetch('quotes_cache.json', { cache: 'no-store' }),
+          fetch('cotacoes.json', { cache: 'no-store' })
+        ]);
+        if (r1.status === 'fulfilled' && r1.value.ok) quotes = await r1.value.json();
+        if (r2.status === 'fulfilled' && r2.value.ok) cot = await r2.value.json();
+      } catch (e) { /* ignora */ }
+
+      // ---- Bloco 1: Indaiatuba / SP ----
+      if (quotes) {
+        app.appendChild(criarTitulo('Indaiatuba / SP'));
+
+        const rotulos = {
+          temperatura: 'Temperatura',
+          gasolina:    'Gasolina',
+          petroleo:    'Petróleo',
+          dolar:       'Dólar',
+          prata:       'Prata',
+          ouro:        'Ouro',
+          bitcoin:     'Bitcoin'
+        };
+
+        Object.entries(rotulos).forEach(([k, rotulo]) => {
+          if (quotes[k] === undefined) return;
+          app.appendChild(criarLinha(rotulo + ':', quotes[k]));
+        });
+      }
+
+      // ---- Bloco 2: IndicAgro - Cotacoes ----
+      if (cot && Array.isArray(cot.cotacoes)) {
+        app.appendChild(criarTitulo('IndicAgro - Cotacoes'));
+
+        cot.cotacoes.forEach(item => {
+          const unidade = item.unidade ? ' ' + item.unidade : '';
+          app.appendChild(criarLinha(item.produto || '', `R$${fmtValor(item.valor)}${unidade}`));
+        });
+      }
+
+      if (!quotes && !cot) {
+        app.innerHTML = '<div class="erro">Falha ao carregar os dados.</div>';
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>

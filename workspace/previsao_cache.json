@@ -1,0 +1,105 @@
+{
+    "data": "2026-11-03",
+    "result": {
+        "resumo_executivo": "No interno, o quadro é misto: açúcar mostra leve suporte, enquanto feijão, arroz e ovos recuam, sinalizando variação de oferta\/custos em segmentos específicos. No externo, café e algodão sustentam leves altas, mas soja e trigo cedem; o noticiário reforça risco macro e climático para alimentos, com potencial pressão inflacionária e logística.",
+        "mercado_interno": {
+            "tendencia": "estavel",
+            "alimentos_alta": [
+                {
+                    "produto": "Açúcar Interno AL (Mercado Interno AL)",
+                    "motivo": "Variação positiva de 1.86%, sugerindo suporte de demanda\/oferta local."
+                },
+                {
+                    "produto": "Etanol Anidro (Anidro SP)",
+                    "motivo": "Variação de 2.55% pode refletir ajuste de oferta ligada ao setor sucroenergético."
+                }
+            ],
+            "alimentos_queda": [
+                {
+                    "produto": "Feijão Carioca (São Paulo)",
+                    "motivo": "Queda de -1.42% indica pressão vendedora ou melhora pontual de oferta."
+                },
+                {
+                    "produto": "Ovos (São Paulo)",
+                    "motivo": "Recuo de -6.44% sugere desalinhamento mais forte entre oferta e demanda."
+                },
+                {
+                    "produto": "Arroz (RS\/IRGA)",
+                    "motivo": "Queda de -0.24% aponta leve desgaste de preços no mercado do RS."
+                }
+            ]
+        },
+        "mercado_externo": {
+            "tendencia": "estavel",
+            "alimentos_alta": [
+                {
+                    "produto": "Café Arábica (Indicador CEPEA)",
+                    "motivo": "Variação de 0.48% mantém viés de sustentação em meio a incerteza climática global."
+                },
+                {
+                    "produto": "Algodão (Indicador CEPEA)",
+                    "motivo": "Alta de 0.21% apesar de alertas de quebra, indicando suporte parcial de mercado."
+                }
+            ],
+            "alimentos_queda": [
+                {
+                    "produto": "Trigo (Rio Grande do Sul)",
+                    "motivo": "Variação de -0.75% sinaliza menor pressão compradora no curto prazo."
+                },
+                {
+                    "produto": "Soja (Porto Base)",
+                    "motivo": "Queda de -0.16% sugere recuo marginal após ajustes de mercado."
+                }
+            ]
+        },
+        "produtos_destaque": [
+            {
+                "produto": "Ovos (São Paulo)",
+                "motivo": "Maior queda da cesta (-6.44%), indicando ajuste relevante no mercado."
+            },
+            {
+                "produto": "Etanol Hidratado (Hidratado SP)",
+                "motivo": "Alta de 2.55% reforça movimento do setor sucroenergético no curto prazo."
+            },
+            {
+                "produto": "Açúcar Cristal (Cristal SP)",
+                "motivo": "Recuo de -1.25% contrasta com suporte em outros tipos de açúcar."
+            }
+        ],
+        "maior_demanda": [
+            {
+                "produto": "Café Arábica (Indicador CEPEA)",
+                "motivo": "Leve alta (0.48%) sugere demanda firme frente a incertezas externas."
+            },
+            {
+                "produto": "Boi Gordo (A Prazo)",
+                "motivo": "Variação positiva de 0.18% indica estabilidade de apetite comprador."
+            }
+        ],
+        "alertas_risco": [
+            {
+                "produto": "Algodão (Indicador CEPEA)",
+                "motivo": "Notícias sobre quebras e risco inflacionário elevam volatilidade para fibras e insumos."
+            },
+            {
+                "produto": "Arroz (RS\/IRGA)",
+                "motivo": "Clima e logística podem amplificar choques de oferta; queda curta pode reverter."
+            },
+            {
+                "produto": "Trigo (Rio Grande do Sul)",
+                "motivo": "Pressões geopolíticas e energia podem reprecificar custos e restringir suprimentos."
+            }
+        ],
+        "base_noticias": [
+            "CRISE ALIMENTAR: Clima e escassez alimentar elevam risco de guerras no mundo - G1",
+            "AGRICULTURA COLHEITAS: El Niño pressiona safra 2026\/27 e acende alerta para finanças do agro - BPMoney",
+            "AGRICULTURA COLHEITAS: Quebras na soja de até 80%: produtores do RS relatam lavouras perdidas - Canal Rural",
+            "CRISE ALIMENTAR: Guerra pressiona preço de alimentos e pode ampliar fome global - Extra Classe"
+        ]
+    },
+    "meta": {
+        "cotacoes": 30,
+        "comparado_com": "2026-11-02",
+        "gerado_em": "2026-11-03T10:11:36-05:00"
+    }
+}

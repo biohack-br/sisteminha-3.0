@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1">
+    <category>
+        <pattern>HELLO</pattern>
+        <template>Hello! I am a chatbot running on Python 3.</template>
+    </category>
+    <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>I am an AIML chatbot built with Python 3 and the python-aiml library.</template>
+    </category>
+    <category>
+        <pattern>MY NAME IS *</pattern>
+        <template>Nice to meet you, <star/>!</template>
+    </category>
+    <category>
+        <pattern>HORA</pattern>
+        <template>
+            A hora e <system>LC_TIME=en_US.UTF-8 date +"%I:%M %p"</system>
+        </template>
+    </category>
+    <category>
+        <pattern>HD</pattern>
+        <template>
+            <system>~/disco.sh</system>
+        </template>
+    </category>
+    <category>
+        <pattern>DOLAR</pattern>
+        <template>
+            <system>~/dolar.sh</system>
+        </template>
+    </category>
+
+    <category>
+        <pattern>GASOLINA</pattern>
+        <template>
+            <system>~/gasolina.sh</system>
+        </template>
+    </category>
+    <category>
+        <pattern>CLIMA</pattern>
+        <template>
+            <system>~/clima.sh</system>
+        </template>
+    </category>
+</aiml>

@@ -1,0 +1,5956 @@
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 129.97,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.88,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 126.62,
+      "unidade": "sc 50kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.4,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 196.79,
+      "unidade": "cab",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 393.59,
+      "unidade": "@",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 579.62,
+      "unidade": "ton",
+      "data": "16/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.59,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 129.72,
+      "unidade": "cx 30dz",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.47,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Grandes Lagos",
+      "categoria": "",
+      "valor": 9.42,
+      "unidade": "kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1493.38,
+      "unidade": "ton",
+      "data": "29/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 129.97,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.88,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 126.62,
+      "unidade": "sc 50kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.4,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 196.79,
+      "unidade": "cab",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 393.59,
+      "unidade": "@",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 579.62,
+      "unidade": "ton",
+      "data": "16/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.59,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 129.72,
+      "unidade": "cx 30dz",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.47,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Grandes Lagos",
+      "categoria": "",
+      "valor": 9.42,
+      "unidade": "kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1493.38,
+      "unidade": "ton",
+      "data": "29/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 77.880 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: 24ºC - Temperatura
+Ouro: 793,81 - Onça de Ouro
+Petróleo: USD 106.30 - 1 Barril tipo Brent
+Prata: R$ 338.73 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 129.97,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.88,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 126.62,
+      "unidade": "sc 50kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.4,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 196.79,
+      "unidade": "cab",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 393.59,
+      "unidade": "@",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 579.62,
+      "unidade": "ton",
+      "data": "16/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.59,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 129.72,
+      "unidade": "cx 30dz",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.47,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Grandes Lagos",
+      "categoria": "",
+      "valor": 9.42,
+      "unidade": "kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1493.38,
+      "unidade": "ton",
+      "data": "29/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 78.062 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: 24ºC - Temperatura
+Ouro: 793,81 - Onça de Ouro
+Petróleo: USD 106.21 - 1 Barril tipo Brent
+Prata: R$ 338.80 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 129.97,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.88,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 126.62,
+      "unidade": "sc 50kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.4,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 196.79,
+      "unidade": "cab",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 393.59,
+      "unidade": "@",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 579.62,
+      "unidade": "ton",
+      "data": "16/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.59,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 129.72,
+      "unidade": "cx 30dz",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.47,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Grandes Lagos",
+      "categoria": "",
+      "valor": 9.42,
+      "unidade": "kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1493.38,
+      "unidade": "ton",
+      "data": "29/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 77.978 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: 24ºC - Temperatura
+Ouro: 793,81 - Onça de Ouro
+Petróleo: USD 106.04 - 1 Barril tipo Brent
+Prata: R$ 338.73 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 129.97,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.88,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 126.62,
+      "unidade": "sc 50kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.4,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 196.79,
+      "unidade": "cab",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 393.59,
+      "unidade": "@",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 579.62,
+      "unidade": "ton",
+      "data": "16/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.59,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 129.72,
+      "unidade": "cx 30dz",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.47,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Grandes Lagos",
+      "categoria": "",
+      "valor": 9.42,
+      "unidade": "kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1493.38,
+      "unidade": "ton",
+      "data": "29/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 77.910 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: Erro: HTTPSConnectionPool(host='precos.petrobras.com.br', port=443): Read timed out. (read timeout=10) - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 795,63 - Onça de Ouro
+Petróleo: USD 106.01 - 1 Barril tipo Brent
+Prata: R$ 338.77 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 129.97,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.88,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 126.62,
+      "unidade": "sc 50kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 412.15,
+      "unidade": "¢/lb",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.4,
+      "unidade": "sc 50kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 196.79,
+      "unidade": "cab",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 393.59,
+      "unidade": "@",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1590.72,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.74,
+      "unidade": "L",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 314.0,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.24,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 579.62,
+      "unidade": "ton",
+      "data": "16/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.59,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 129.72,
+      "unidade": "cx 30dz",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.47,
+      "unidade": "sc 60kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "29/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Grandes Lagos",
+      "categoria": "",
+      "valor": 9.42,
+      "unidade": "kg",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1493.38,
+      "unidade": "ton",
+      "data": "29/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 77.506 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: Erro: HTTPSConnectionPool(host='precos.petrobras.com.br', port=443): Read timed out. (read timeout=10) - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 795,88 - Onça de Ouro
+Petróleo: USD 106.09 - 1 Barril tipo Brent
+Prata: R$ 338.77 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+Erro na consulta: HTTPSConnectionPool(host='indicagro.com.br', port=443): Max retries exceeded with url: /cotacoes (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7d1b21a7b0>, 'Connection to indicagro.com.br timed out. (connect timeout=20)'))
+cotações...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+Erro na consulta: HTTPSConnectionPool(host='indicagro.com.br', port=443): Max retries exceeded with url: /cotacoes (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8c7067b0>, 'Connection to indicagro.com.br timed out. (connect timeout=20)'))
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: BitCoin: N/A - Unidade Bitcoin
+Dólar: Não foi possível obter a cotação do dólar. - 1 Dólar
+Gasolina: Erro: HTTPConnectionPool(host='precos.petrobras.com.br', port=80): Max retries exceeded with url: /w/gasolina/sp (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ab4f4e270>, 'Connection to precos.petrobras.com.br timed out. (connect timeout=10)')) - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: Nao foi possivel obter a cotacao atual da onca de ouro. - Onça de Ouro
+Petróleo: Petroleo: N/A - 1 Barril tipo Brent
+Prata: Não foi possível obter a cotação atual da prata. Verifique sua conexão com a internet ou tente novamente mais tarde. - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: BitCoin: N/A - Unidade Bitcoin
+Dólar: Não foi possível obter a cotação do dólar. - 1 Dólar
+Gasolina: Erro: HTTPConnectionPool(host='precos.petrobras.com.br', port=80): Max retries exceeded with url: /w/gasolina/sp (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7412786270>, 'Connection to precos.petrobras.com.br timed out. (connect timeout=10)')) - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: Nao foi possivel obter a cotacao atual da onca de ouro. - Onça de Ouro
+Petróleo: Petroleo: N/A - 1 Barril tipo Brent
+Prata: Não foi possível obter a cotação atual da prata. Verifique sua conexão com a internet ou tente novamente mais tarde. - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.970 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 793,40 - Onça de Ouro
+Petróleo: USD 104.23 - 1 Barril tipo Brent
+Prata: R$ 338.77 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.822 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 793,17 - Onça de Ouro
+Petróleo: USD 104.30 - 1 Barril tipo Brent
+Prata: R$ 338.73 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.774 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 793,22 - Onça de Ouro
+Petróleo: USD 104.33 - 1 Barril tipo Brent
+Prata: R$ 338.77 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 77.144 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 794,22 - Onça de Ouro
+Petróleo: USD 104.66 - 1 Barril tipo Brent
+Prata: R$ 338.77 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.846 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 793,23 - Onça de Ouro
+Petróleo: USD 104.73 - 1 Barril tipo Brent
+Prata: R$ 338.80 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.944 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 789,53 - Onça de Ouro
+Petróleo: USD 104.79 - 1 Barril tipo Brent
+Prata: R$ 338.80 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 77.068 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 790,13 - Onça de Ouro
+Petróleo: USD 105.17 - 1 Barril tipo Brent
+Prata: R$ 338.77 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 77.006 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 788,73 - Onça de Ouro
+Petróleo: USD 105.25 - 1 Barril tipo Brent
+Prata: R$ 338.66 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.844 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 789,07 - Onça de Ouro
+Petróleo: USD 105.16 - 1 Barril tipo Brent
+Prata: R$ 338.80 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.834 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 789,07 - Onça de Ouro
+Petróleo: USD 105.21 - 1 Barril tipo Brent
+Prata: R$ 338.80 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.725 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 789,07 - Onça de Ouro
+Petróleo: USD 105.55 - 1 Barril tipo Brent
+Prata: R$ 338.91 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.600 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 788,93 - Onça de Ouro
+Petróleo: USD 105.81 - 1 Barril tipo Brent
+Prata: R$ 339.09 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.589 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 788,67 - Onça de Ouro
+Petróleo: USD 106.48 - 1 Barril tipo Brent
+Prata: R$ 339.27 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.523 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 788,32 - Onça de Ouro
+Petróleo: USD 106.95 - 1 Barril tipo Brent
+Prata: R$ 339.56 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.854 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 788,67 - Onça de Ouro
+Petróleo: USD 106.51 - 1 Barril tipo Brent
+Prata: R$ 339.77 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...
+Iniciando...
+
+Commodities...
+[delay] Aguardando 5s antes de requisitar https://indicagro.com.br/cotacoes...
+{
+  "fonte": "https://indicagro.com.br/cotacoes",
+  "total": 30,
+  "cotacoes": [
+    {
+      "produto": "Açúcar Cristal",
+      "variedade": "Cristal SP",
+      "categoria": "Sucroenergético",
+      "valor": 128.35,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Empacotado",
+      "variedade": "Cristal Empacotado SP",
+      "categoria": "Sucroenergético",
+      "valor": 14.96,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno AL",
+      "variedade": "Mercado Interno AL",
+      "categoria": "Sucroenergético",
+      "valor": 128.98,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar Interno PB",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Interno PE",
+      "variedade": "N/A",
+      "categoria": "Sucroenergético",
+      "valor": 0.0,
+      "unidade": "sc 50kg",
+      "data": "01/03/2026"
+    },
+    {
+      "produto": "Açúcar Refinado",
+      "variedade": "Refinado Amorfo SP",
+      "categoria": "Sucroenergético",
+      "valor": 3.17,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Açúcar VHP",
+      "variedade": "VHP Exportação",
+      "categoria": "Sucroenergético",
+      "valor": 98.59,
+      "unidade": "ton",
+      "data": "27/02/2026"
+    },
+    {
+      "produto": "Algodão",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 15 Dias",
+      "variedade": "Prazo 15 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 30 Dias",
+      "variedade": "Prazo 30 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Algodão 8 Dias",
+      "variedade": "Prazo 8 dias",
+      "categoria": "Fibras",
+      "valor": 413.02,
+      "unidade": "¢/lb",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Arroz",
+      "variedade": "RS/IRGA",
+      "categoria": "Grãos",
+      "valor": 82.2,
+      "unidade": "sc 50kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Bezerro",
+      "variedade": "São Paulo",
+      "categoria": "Pecuária",
+      "valor": 200.47,
+      "unidade": "cab",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Boi Gordo",
+      "variedade": "A Prazo",
+      "categoria": "Pecuária",
+      "valor": 394.3,
+      "unidade": "@",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Arábica",
+      "variedade": "Indicador CEPEA",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Café Robusta",
+      "variedade": "Indicador Robusta",
+      "categoria": "Grãos",
+      "valor": 1598.37,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Anidro",
+      "variedade": "Anidro SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Etanol Hidratado",
+      "variedade": "Hidratado SP",
+      "categoria": "Sucroenergético",
+      "valor": 2.81,
+      "unidade": "L",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Carioca",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Feijão Preto",
+      "variedade": "São Paulo",
+      "categoria": "Grãos",
+      "valor": 309.54,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Resfriado",
+      "variedade": "Resfriado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Frango Vivo",
+      "variedade": "Congelado SP",
+      "categoria": "Pecuária",
+      "valor": 8.22,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Leite",
+      "variedade": "RS",
+      "categoria": "Pecuária",
+      "valor": 2.65,
+      "unidade": "L",
+      "data": "01/08/2026"
+    },
+    {
+      "produto": "Mandioca",
+      "variedade": "Média SP",
+      "categoria": "Outros",
+      "valor": 581.17,
+      "unidade": "ton",
+      "data": "23/10/2026"
+    },
+    {
+      "produto": "Milho",
+      "variedade": "ESALQ/BM&FBovespa",
+      "categoria": "Grãos",
+      "valor": 65.64,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Ovos",
+      "variedade": "São Paulo",
+      "categoria": "Outros",
+      "valor": 121.36,
+      "unidade": "cx 30dz",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Soja",
+      "variedade": "Porto Base",
+      "categoria": "Grãos",
+      "valor": 152.22,
+      "unidade": "sc 60kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Suíno Vivo",
+      "variedade": "Carcaça SP",
+      "categoria": "Pecuária",
+      "valor": 10.23,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Tilápia",
+      "variedade": "Triâng.Mineiro/Alto Paranaíba",
+      "categoria": "",
+      "valor": 9.29,
+      "unidade": "kg",
+      "data": "30/10/2026"
+    },
+    {
+      "produto": "Trigo",
+      "variedade": "Rio Grande do Sul",
+      "categoria": "Grãos",
+      "valor": 1482.17,
+      "unidade": "ton",
+      "data": "30/10/2026"
+    }
+  ]
+}
+Arquivo salvo: cotacoes.json
+cotações...
+Consolidando os dados...
+>> Lendo ./cotacoes.json e ./quotes_cache.json
+>> Consolidado gerado: ./consolidado.json (37 itens)
+>> Indicadores:
+Bitcoin: $USD 76.734 - Unidade Bitcoin
+Dólar: R$ 5,44 - 1 Dólar
+Gasolina: R$ 6,35 - 1 Lt
+Indaiatuba / SP: N/A - Temperatura
+Ouro: 788,98 - Onça de Ouro
+Petróleo: USD 106.41 - 1 Barril tipo Brent
+Prata: R$ 339.95 - Onça de prata
+>> Primeiros 3 registros:
+2026-02-27 | Açúcar VHP (VHP Exportação) [Sucroenergético] | 98.59 ton
+2026-03-01 | Açúcar Interno PB [Sucroenergético] | 0.0 sc 50kg
+2026-03-01 | Açúcar Interno PE [Sucroenergético] | 0.0 sc 50kg
+subindo via FTP...
+Concluido...

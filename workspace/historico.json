@@ -1,0 +1,532 @@
+{
+    "snapshots": [
+        {
+            "data": "2026-11-02",
+            "itens": [
+                {
+                    "descricao": "Açúcar VHP (VHP Exportação) [Sucroenergético]",
+                    "valor": "98.59",
+                    "unidade": "ton",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Interno PB [Sucroenergético]",
+                    "valor": "0.0",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Interno PE [Sucroenergético]",
+                    "valor": "0.0",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Leite (RS) [Pecuária]",
+                    "valor": "2.65",
+                    "unidade": "L",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Mandioca (Média SP) [Outros]",
+                    "valor": "579.62",
+                    "unidade": "ton",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Interno AL (Mercado Interno AL) [Sucroenergético]",
+                    "valor": "126.62",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Etanol Anidro (Anidro SP) [Sucroenergético]",
+                    "valor": "2.74",
+                    "unidade": "L",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Etanol Hidratado (Hidratado SP) [Sucroenergético]",
+                    "valor": "2.74",
+                    "unidade": "L",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Tilápia (Grandes Lagos)",
+                    "valor": "9.42",
+                    "unidade": "kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Algodão (Indicador CEPEA) [Fibras]",
+                    "valor": "412.15",
+                    "unidade": "¢\/lb",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Algodão 15 Dias (Prazo 15 dias) [Fibras]",
+                    "valor": "412.15",
+                    "unidade": "¢\/lb",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Algodão 30 Dias (Prazo 30 dias) [Fibras]",
+                    "valor": "412.15",
+                    "unidade": "¢\/lb",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Algodão 8 Dias (Prazo 8 dias) [Fibras]",
+                    "valor": "412.15",
+                    "unidade": "¢\/lb",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Arroz (RS\/IRGA) [Grãos]",
+                    "valor": "82.4",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Cristal (Cristal SP) [Sucroenergético]",
+                    "valor": "129.97",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Empacotado (Cristal Empacotado SP) [Sucroenergético]",
+                    "valor": "14.88",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Refinado (Refinado Amorfo SP) [Sucroenergético]",
+                    "valor": "3.17",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Bezerro (São Paulo) [Pecuária]",
+                    "valor": "196.79",
+                    "unidade": "cab",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Boi Gordo (A Prazo) [Pecuária]",
+                    "valor": "393.59",
+                    "unidade": "@",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Café Arábica (Indicador CEPEA) [Grãos]",
+                    "valor": "1590.72",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Café Robusta (Indicador Robusta) [Grãos]",
+                    "valor": "1590.72",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Feijão Carioca (São Paulo) [Grãos]",
+                    "valor": "314.0",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Feijão Preto (São Paulo) [Grãos]",
+                    "valor": "314.0",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Frango Resfriado (Resfriado SP) [Pecuária]",
+                    "valor": "8.24",
+                    "unidade": "kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Frango Vivo (Congelado SP) [Pecuária]",
+                    "valor": "8.24",
+                    "unidade": "kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Milho (ESALQ\/BM&FBovespa) [Grãos]",
+                    "valor": "65.59",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Ovos (São Paulo) [Outros]",
+                    "valor": "129.72",
+                    "unidade": "cx 30dz",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Soja (Porto Base) [Grãos]",
+                    "valor": "152.47",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Suíno Vivo (Carcaça SP) [Pecuária]",
+                    "valor": "10.23",
+                    "unidade": "kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Trigo (Rio Grande do Sul) [Grãos]",
+                    "valor": "1493.38",
+                    "unidade": "ton",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "bitcoin",
+                    "valor": "$USD 77.972",
+                    "unidade": "",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "dolar",
+                    "valor": "R$ 5,44",
+                    "unidade": "",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "gasolina",
+                    "valor": "R$ 6,35",
+                    "unidade": "",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "ouro",
+                    "valor": "793,13",
+                    "unidade": "",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "petroleo",
+                    "valor": "USD 106.52",
+                    "unidade": "",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "prata",
+                    "valor": "R$ 338.77",
+                    "unidade": "",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "temperatura",
+                    "valor": "20ºC",
+                    "unidade": "",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                }
+            ]
+        },
+        {
+            "data": "2026-11-03",
+            "itens": [
+                {
+                    "descricao": "Açúcar VHP (VHP Exportação) [Sucroenergético]",
+                    "valor": "98.59",
+                    "unidade": "ton",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Interno PB [Sucroenergético]",
+                    "valor": "0.0",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Interno PE [Sucroenergético]",
+                    "valor": "0.0",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Leite (RS) [Pecuária]",
+                    "valor": "2.65",
+                    "unidade": "L",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Mandioca (Média SP) [Outros]",
+                    "valor": "581.17",
+                    "unidade": "ton",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Algodão (Indicador CEPEA) [Fibras]",
+                    "valor": "413.02",
+                    "unidade": "¢\/lb",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Algodão 15 Dias (Prazo 15 dias) [Fibras]",
+                    "valor": "413.02",
+                    "unidade": "¢\/lb",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Algodão 30 Dias (Prazo 30 dias) [Fibras]",
+                    "valor": "413.02",
+                    "unidade": "¢\/lb",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Algodão 8 Dias (Prazo 8 dias) [Fibras]",
+                    "valor": "413.02",
+                    "unidade": "¢\/lb",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Arroz (RS\/IRGA) [Grãos]",
+                    "valor": "82.2",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Cristal (Cristal SP) [Sucroenergético]",
+                    "valor": "128.35",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Empacotado (Cristal Empacotado SP) [Sucroenergético]",
+                    "valor": "14.96",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Interno AL (Mercado Interno AL) [Sucroenergético]",
+                    "valor": "128.98",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Açúcar Refinado (Refinado Amorfo SP) [Sucroenergético]",
+                    "valor": "3.17",
+                    "unidade": "sc 50kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Bezerro (São Paulo) [Pecuária]",
+                    "valor": "200.47",
+                    "unidade": "cab",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Boi Gordo (A Prazo) [Pecuária]",
+                    "valor": "394.3",
+                    "unidade": "@",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Café Arábica (Indicador CEPEA) [Grãos]",
+                    "valor": "1598.37",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Café Robusta (Indicador Robusta) [Grãos]",
+                    "valor": "1598.37",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Etanol Anidro (Anidro SP) [Sucroenergético]",
+                    "valor": "2.81",
+                    "unidade": "L",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Etanol Hidratado (Hidratado SP) [Sucroenergético]",
+                    "valor": "2.81",
+                    "unidade": "L",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Feijão Carioca (São Paulo) [Grãos]",
+                    "valor": "309.54",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Feijão Preto (São Paulo) [Grãos]",
+                    "valor": "309.54",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Frango Resfriado (Resfriado SP) [Pecuária]",
+                    "valor": "8.22",
+                    "unidade": "kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Frango Vivo (Congelado SP) [Pecuária]",
+                    "valor": "8.22",
+                    "unidade": "kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Milho (ESALQ\/BM&FBovespa) [Grãos]",
+                    "valor": "65.64",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Ovos (São Paulo) [Outros]",
+                    "valor": "121.36",
+                    "unidade": "cx 30dz",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Soja (Porto Base) [Grãos]",
+                    "valor": "152.22",
+                    "unidade": "sc 60kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Suíno Vivo (Carcaça SP) [Pecuária]",
+                    "valor": "10.23",
+                    "unidade": "kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Tilápia (Triâng.Mineiro\/Alto Paranaíba)",
+                    "valor": "9.29",
+                    "unidade": "kg",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Trigo (Rio Grande do Sul) [Grãos]",
+                    "valor": "1482.17",
+                    "unidade": "ton",
+                    "tipo": "cotacao",
+                    "fonte": "https:\/\/indicagro.com.br\/cotacoes"
+                },
+                {
+                    "descricao": "Bitcoin",
+                    "valor": "$USD 77.406",
+                    "unidade": "Unidade Bitcoin",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "Dólar",
+                    "valor": "R$ 5,50",
+                    "unidade": "1 Dólar",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "Gasolina",
+                    "valor": "R$ 6,35",
+                    "unidade": "1 Lt",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "Indaiatuba \/ SP",
+                    "valor": "27ºC",
+                    "unidade": "Temperatura",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "Ouro",
+                    "valor": "803,30",
+                    "unidade": "Onça de Ouro",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "Petróleo",
+                    "valor": "USD 103.40",
+                    "unidade": "1 Barril tipo Brent",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                },
+                {
+                    "descricao": "Prata",
+                    "valor": "R$ 342.63",
+                    "unidade": "Onça de prata",
+                    "tipo": "indicador",
+                    "fonte": "quotes_cache"
+                }
+            ]
+        }
+    ]
+}

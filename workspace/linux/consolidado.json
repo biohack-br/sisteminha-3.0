@@ -1,0 +1,302 @@
+{
+  "gerado_em": "2026-11-03T08:18:16Z",
+  "total": 37,
+  "itens": [
+    {
+      "data": "2026-02-27",
+      "descricao": "Açúcar VHP (VHP Exportação) [Sucroenergético]",
+      "valor": "98.59",
+      "unidade": "ton",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-03-01",
+      "descricao": "Açúcar Interno PB [Sucroenergético]",
+      "valor": "0.0",
+      "unidade": "sc 50kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-03-01",
+      "descricao": "Açúcar Interno PE [Sucroenergético]",
+      "valor": "0.0",
+      "unidade": "sc 50kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-08-01",
+      "descricao": "Leite (RS) [Pecuária]",
+      "valor": "2.65",
+      "unidade": "L",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-23",
+      "descricao": "Mandioca (Média SP) [Outros]",
+      "valor": "581.17",
+      "unidade": "ton",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Algodão (Indicador CEPEA) [Fibras]",
+      "valor": "413.02",
+      "unidade": "¢/lb",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Algodão 15 Dias (Prazo 15 dias) [Fibras]",
+      "valor": "413.02",
+      "unidade": "¢/lb",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Algodão 30 Dias (Prazo 30 dias) [Fibras]",
+      "valor": "413.02",
+      "unidade": "¢/lb",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Algodão 8 Dias (Prazo 8 dias) [Fibras]",
+      "valor": "413.02",
+      "unidade": "¢/lb",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Arroz (RS/IRGA) [Grãos]",
+      "valor": "82.2",
+      "unidade": "sc 50kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Açúcar Cristal (Cristal SP) [Sucroenergético]",
+      "valor": "128.35",
+      "unidade": "sc 50kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Açúcar Empacotado (Cristal Empacotado SP) [Sucroenergético]",
+      "valor": "14.96",
+      "unidade": "sc 50kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Açúcar Interno AL (Mercado Interno AL) [Sucroenergético]",
+      "valor": "128.98",
+      "unidade": "sc 50kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Açúcar Refinado (Refinado Amorfo SP) [Sucroenergético]",
+      "valor": "3.17",
+      "unidade": "sc 50kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Bezerro (São Paulo) [Pecuária]",
+      "valor": "200.47",
+      "unidade": "cab",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Boi Gordo (A Prazo) [Pecuária]",
+      "valor": "394.3",
+      "unidade": "@",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Café Arábica (Indicador CEPEA) [Grãos]",
+      "valor": "1598.37",
+      "unidade": "sc 60kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Café Robusta (Indicador Robusta) [Grãos]",
+      "valor": "1598.37",
+      "unidade": "sc 60kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Etanol Anidro (Anidro SP) [Sucroenergético]",
+      "valor": "2.81",
+      "unidade": "L",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Etanol Hidratado (Hidratado SP) [Sucroenergético]",
+      "valor": "2.81",
+      "unidade": "L",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Feijão Carioca (São Paulo) [Grãos]",
+      "valor": "309.54",
+      "unidade": "sc 60kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Feijão Preto (São Paulo) [Grãos]",
+      "valor": "309.54",
+      "unidade": "sc 60kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Frango Resfriado (Resfriado SP) [Pecuária]",
+      "valor": "8.22",
+      "unidade": "kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Frango Vivo (Congelado SP) [Pecuária]",
+      "valor": "8.22",
+      "unidade": "kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Milho (ESALQ/BM&FBovespa) [Grãos]",
+      "valor": "65.64",
+      "unidade": "sc 60kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Ovos (São Paulo) [Outros]",
+      "valor": "121.36",
+      "unidade": "cx 30dz",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Soja (Porto Base) [Grãos]",
+      "valor": "152.22",
+      "unidade": "sc 60kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Suíno Vivo (Carcaça SP) [Pecuária]",
+      "valor": "10.23",
+      "unidade": "kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Tilápia (Triâng.Mineiro/Alto Paranaíba)",
+      "valor": "9.29",
+      "unidade": "kg",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-10-30",
+      "descricao": "Trigo (Rio Grande do Sul) [Grãos]",
+      "valor": "1482.17",
+      "unidade": "ton",
+      "tipo": "cotacao",
+      "fonte": "https://indicagro.com.br/cotacoes"
+    },
+    {
+      "data": "2026-11-03",
+      "descricao": "Bitcoin",
+      "valor": "$USD 76.734",
+      "unidade": "Unidade Bitcoin",
+      "tipo": "indicador",
+      "fonte": "quotes_cache"
+    },
+    {
+      "data": "2026-11-03",
+      "descricao": "Dólar",
+      "valor": "R$ 5,44",
+      "unidade": "1 Dólar",
+      "tipo": "indicador",
+      "fonte": "quotes_cache"
+    },
+    {
+      "data": "2026-11-03",
+      "descricao": "Gasolina",
+      "valor": "R$ 6,35",
+      "unidade": "1 Lt",
+      "tipo": "indicador",
+      "fonte": "quotes_cache"
+    },
+    {
+      "data": "2026-11-03",
+      "descricao": "Indaiatuba / SP",
+      "valor": "N/A",
+      "unidade": "Temperatura",
+      "tipo": "indicador",
+      "fonte": "quotes_cache"
+    },
+    {
+      "data": "2026-11-03",
+      "descricao": "Ouro",
+      "valor": "788,98",
+      "unidade": "Onça de Ouro",
+      "tipo": "indicador",
+      "fonte": "quotes_cache"
+    },
+    {
+      "data": "2026-11-03",
+      "descricao": "Petróleo",
+      "valor": "USD 106.41",
+      "unidade": "1 Barril tipo Brent",
+      "tipo": "indicador",
+      "fonte": "quotes_cache"
+    },
+    {
+      "data": "2026-11-03",
+      "descricao": "Prata",
+      "valor": "R$ 339.95",
+      "unidade": "Onça de prata",
+      "tipo": "indicador",
+      "fonte": "quotes_cache"
+    }
+  ]
+}

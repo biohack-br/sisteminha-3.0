@@ -1,0 +1,73 @@
+{
+    "history": [
+        {
+            "user": "ola",
+            "bot": "E aí. O mundo tá com cara de “infra que falha e comida que encarece”: clima, água, combustível e logística se retroalimentando. Me diz só uma coisa pra eu mirar certo: você tá preocupado mais com segurança alimentar na sua rotina, com negócios\/produção, ou com o que pode vir na geopolítica e no custo de vida?"
+        },
+        {
+            "user": "e sobre o ebola devo me preocupar com as ultimas noticias ?",
+            "bot": "Eu não consigo garantir “as últimas notícias” em tempo real daqui, então vou te dar o critério certo pra decidir se faz sentido se preocupar. Ebola costuma ser um risco localizado (surto em regiões específicas), e o que muda a gravidade não é “barulho” nas redes, e sim sinais oficiais: cadeia de transmissão identificada, casos fora da área de surto, e capacidade de rastrear\/isolamento.\n\nSe você não está em\/indo para áreas afetadas e não tem contato direto com pacientes ou material biológico, a preocupação geral costuma ser baixa. Agora, se houver viagem planejada, contato com profissionais\/área de surto, ou atualização de autoridade sanitária do seu país sobre transmissão local, aí sim vale aumentar atenção.\n\nQuer dizer seu país\/cidade e se tem alguma viagem em vista? Aí eu te digo como avaliar risco de forma prática sem paranoia."
+        },
+        {
+            "user": "de um panorama global das ultimas noticias",
+            "bot": "Não consigo checar “as últimas notícias” em tempo real aqui, então não vou inventar panorama do que teria saído ontem\/hoje. Mas posso te dar um panorama global do tema “Ebola” em termos de risco e como o noticiário costuma se organizar:\n\nEm geral, quando há atenção internacional, é porque surgiram casos confirmados em um país\/área específica, às vezes com dificuldade de rastrear contatos e com o sistema de saúde local sob pressão; isso muda a conversa de “ocorrência local” para “ameaça regional”. Fora desses gatilhos (casos fora da zona, transmissão sustentada ou falhas de contenção), o risco para quem não está na região tende a ficar baixo.\n\nSe você me disser qual surto\/país você está vendo nas manchetes e seu objetivo (viagem, trabalho de saúde, interesse geral), eu te ajudo a traduzir o que realmente importa e o que é só ruído."
+        },
+        {
+            "user": "ola",
+            "bot": "Voltamos à matrix: você quer saber o que é ruído e o que é comando real. Então me dá duas linhas: seu país\/cidade e o motivo da dúvida sobre Ebola (viagem, trabalho, ou só preocupação geral). Com isso eu te digo o nível de atenção e o que vale preparar, sem pânico e sem simulação."
+        },
+        {
+            "user": "de um panaroma nacional sobre as ultimas noticias",
+            "bot": "Eu não consigo puxar “as últimas notícias nacionais” em tempo real daqui, mas posso te entregar o panorama do tipo de risco que anda moldando o Brasil agora: o pacote é fome\/segurança alimentar (pressão por clima, guerra e custos), gargalos logísticos (menos motoristas\/caminhoneiros elevando fretes e atrasos), combustível e diesel como variável que afeta tudo (transporte e insumos), e água sob pressão em áreas com eventos climáticos extremos (racionamento\/rodízio em cenários de seca); por baixo disso, vem o fator “realidade virando simulação”: instabilidade econômica, inflação\/PIB revistos para baixo, e crescimento de eventos que testam sistemas locais (defesa civil, portos\/cheias, surtos). Se seu foco for sobrevivência prática, me diga sua cidade\/estado e se você quer plano para comida, água ou saúde, que eu transformo esse “panorama” em checklist de prontidão por nível."
+        },
+        {
+            "user": "e sobre o ebola devo me preocupar ?",
+            "bot": "Sim, mas só do jeito correto: preocupação proporcional, não pânico. Para a maioria das pessoas fora da região com casos, a probabilidade imediata costuma ser baixa porque o Ebola não “sai voando” como gripe; ele precisa de contato próximo com secreções de um doente sintomático e um sistema de saúde que falha facilita a transmissão. O que realmente importa é onde você está: se existe surto ativo em um país\/área perto, ou casos suspeitos\/confirmados com rastreio ruim, aí o risco sobe e vale reforçar prevenção básica. Para sua prontidão, faça o básico da matrix real: higiene rigorosa das mãos, atenção a sintomas compatíveis (febre alta, mal-estar intenso, diarreia\/vômitos) após contato de risco, evite contato com pessoas doentes e, se houver suspeita, procure atendimento cedo e informe sobre possíveis exposições; não “invente” tratamento em casa. Se você me disser seu estado\/cidade e se você teve viagem recente ou contato de risco, eu te digo qual nível de preocupação faz sentido e o que preparar em casa (kit e protocolos), sem histeria."
+        },
+        {
+            "user": "ultimas noticias",
+            "bot": "A matrix tá mostrando pouco “rolê” de Ebola; ela está falando de outra camada de emergência: no Brasil, queda de asa-delta no Rio matou duas pessoas, e tem briga institucional em torno de bets com STF e governo; também aparece uma falha no “Smart Sampa” permitindo acesso a milhares de câmeras conveniadas, ou seja, risco cibernético e de privacidade. No mundo: EUA atacaram a ilha de Qeshm no estreito de Ormuz, colisão de helicópteros na região do Everest com uma morte, e a Suprema Corte rejeitou tentativa de Trump de separar votos na Califórnia. Se você quer sobreviver melhor a isso tudo, pensa assim: energia\/combustível, comunicação (dados seguros), e rotas alternativas; o resto é ruído."
+        },
+        {
+            "user": "ola",
+            "bot": "Olha só, você entrou no terminal certo. Diz tua situação: você quer mapa de risco do Brasil, plano de kit de emergência, bushcraft para o seu clima, ou protocolo de primeiros socorros para levar na mochila?"
+        },
+        {
+            "user": "resuma de forma breve as ultimas noticias",
+            "bot": "Brasil: proibição de bets vira debate com clubes, STF e governo; duas mortes após queda de asa-delta no Rio; falha no Smart Sampa pode expor acesso a 17 mil câmeras; cartaz na Maratona de NY “ironiza” Flávio Bolsonaro. Mundo: eleições nos EUA podem não confirmar a “onda democrata” das pesquisas; EUA atacam ilha iraniana de Qeshm; colisão de helicópteros na região do Everest deixa um morto; Suprema Corte rejeita tentativa de Trump de separar votos na Califórnia."
+        },
+        {
+            "user": "e sobre o ebola devo me preocupar ?",
+            "bot": "Preocupação, mas do tipo certa: a matrix aponta urgência de tratado global, números pesados e casos suspeitos na Nigéria; também cita risco de chegada a Portugal, então sim existe ameaça residual, mas não pânico automático. Sua prioridade é reduzir superfície de risco: higiene de mãos e desinfecção, evitar contato com fluidos de pessoas com febre\/diarreia inexplicada, e seguir orientações oficiais se houver suspeita na sua região; se você viaja para área com surto, foque em barreira (máscara quando indicado, luvas se cuidar de doente) e comunicação rápida com serviço de saúde."
+        },
+        {
+            "user": "ultimas noticias sobre o ebola ?",
+            "bot": "A matrix está silenciosa sobre ebola nas notícias que ela está emitindo agora; sem novos sinais no feed, o que vale é operar pelo protocolo padrão: monitore saúde pública do seu país\/estado, atenção a febre alta, diarreia e sangramentos em contatos recentes de áreas com surto, e acione serviço de saúde imediatamente se houver suspeita; fora isso, não gaste energia em medo, gaste em higiene e prontidão."
+        },
+        {
+            "user": "e sobre 2027 o que se esperar de uma forma breve",
+            "bot": "2027 tende a ficar sob mesma lógica que a matrix já desenhou: geoeconomia apertada e choques regionais, agricultura sob pressão de clima extremo, e demanda global por alimentos ainda subindo enquanto cadeias e moedas tentam se recalibrar; prepare-se para custos maiores de energia e insumos, mais volatilidade de preços de grãos e proteína, e mais interrupções logísticas, então é racional reforçar estoques, reduzir dependência de “um fornecedor só” e montar redundância de água, fogo e primeiros socorros."
+        },
+        {
+            "user": "e sobre alimentos podemos ter falta nos mercados ainda este ano ?",
+            "bot": "Sim, existe risco de desabastecimento localizado ainda este ano, não por “acabou tudo”, mas por gargalos: clima extremo, geopolítica e logística empurrando preço e prazo para cima; o que a matrix sugere é estresse de oferta e alta volatilidade em itens-chave como grãos e proteína, então o melhor antídoto é pragmático: comprar o giro (10 a 30 dias do que você usa), diversificar marcas\/transportadoras, manter alimentos não perecíveis com preparo simples e um plano de substituição (arroz com feijão\/carioca ou milho, proteína com ovos e frango, e amido\/raízes como reserva), e conferir datas de validade como quem faz checksum antes de rodar o sistema."
+        },
+        {
+            "user": "voce preve um desabastecimento em mercados ou algo do tipo de falta de produtos neste senario ?",
+            "bot": "Prevejo sim falhas localizadas: não é “apagão de prateleira” no geral, mas você pode ver rupturas temporárias e substituições forçadas em itens com cadeia curta, logística cara ou dependentes de um clima específico; a receita do risco é simples: quando preço sobe e prazo alonga, o mercado sente antes, e isso tende a aparecer primeiro em grãos\/proteína (arroz, feijão, milho, soja e derivados) e em proteína refrigerada ou congelada, depois em itens secundários; então trate seu cenário como incidente: faça estoque do que dá para substituir, mantenha um plano de rotas (comprar em mais de um lugar), controle validade e estoque mínimo de 30 a 60 dias para o núcleo da sua dieta, e tenha um kit de preparo\/armazenamento para não depender da energia e do transporte quando a matrix travar."
+        },
+        {
+            "user": "tendo em vista o senario politico é possivel uma nova greve dos caminhoneiros ?",
+            "bot": "Possível, sim: quando geoeconomia aperta e custo de diesel sobe, o sistema de “pressão” acha o mesmo botão; a greve dos caminhoneiros costuma aparecer como resposta política e econômica, não como surpresa técnica. Se acontecer, o impacto mais provável é regional e por janela de tempo, mas suficiente para bagunçar abastecimento de itens perecíveis e alimentos de maior giro; se quer blindar, priorize estoques de 15 a 30 dias do básico que você realmente cozinha, garanta água e itens não perecíveis, e combine rotas alternativas e compras em blocos antes da tensão estourar."
+        },
+        {
+            "user": "pq os outros paises estão alertando sobre guardar alimentos para uma possivel emergencia ?",
+            "bot": "Porque a “matrix” deles entendeu que o custo de preparação é menor que o custo do improviso: em cenários de risco geoeconômico, conflito e clima extremo, cadeias de suprimento ficam lentas, preços disparam e a disponibilidade vira loteria; alertas oficiais funcionam como sinal social e psicológico para reduzir pânico e garantir um mínimo de resiliência doméstica, além de amortecer efeitos em caso de restrições logísticas, desvio de cargas e descompasso entre demanda e oferta. No seu lado, o objetivo não é estocar como se fosse fim do mundo; é montar redundância: água, energia\/alternativas, itens não perecíveis com rotação, e um plano de preparo que você consiga manter quando “o link” do abastecimento cair."
+        }
+    ],
+    "known": {
+        "user": null,
+        "pessoas": [],
+        "animais": []
+    }
+}
